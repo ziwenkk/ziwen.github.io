@@ -146,25 +146,31 @@ languages:
 awards:
   - title: CAS Presidential Scholarship
     url: https://www.cas.cn/
-    date: '2024'
+    date: '2024-07-26'
     awarder: Chinese Academy of Sciences
     icon: CAS
     summary: ''
+  - title: Outstanding Graduate of University of Science and Technology of China
+    url: https://www.ustc.edu.cn/
+    date: '2024-04-15'
+    awarder: University of Science and Technology of China
+    icon: USTC
+    summary: ''
   - title: CSC Scholarship
     url: https://www.csc.edu.cn/
-    date: '2023'
+    date: '2022-10-01'
     awarder: China Scholarship Council
     icon: CSC
     summary: ''
   - title: CETC The 14TH Research Institute Glarun Scholarship
     url: https://14.cetc.com.cn/
-    date: '2022'
+    date: '2022-06-01'
     awarder: CETC The 14TH Research Institute
     icon: CETC
     summary: ''
   - title: Best oral presentation
     url: https://nadc.china-vo.org/meetings/meetingInfo/245
-    date: '2021'
+    date: '2021-5-17'
     awarder: Galaxy and Cosmology Committee of the Chinese Astronomical Society
     icon: ''
     summary: ''
