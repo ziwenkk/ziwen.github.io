@@ -45,16 +45,10 @@ profiles:
     url: https://www.researchgate.net/profile/Zhang-Ziwen/research
 
 interests:
-  - Galaxy formation and evolution 🌌
+  - Galaxy formation and evolution
   - Galaxy-halo connection 
+  - Active galactic nuclei (AGN) and host galaxy co-evolution
   - Weak lensing
-  - Morning coffee ☕️
-  - Oil painting 🖼️
-  - Philosophy about LIFE 👽
-  - Robotic arm, like DUMMY 🦾
-  - Traveling with friends 🚞
-  - Reading 📚
-  - Jazz 🎷
 
 education:
   - area: Doctor of Natural Science in Astronomy
@@ -62,7 +56,7 @@ education:
     date_start: 2018-09-01
     date_end: 2024-12-03
     summary: |
-      Thesis on The influence and constraints of large-scale structure on galaxy evolution. Supervised by [Prof Huiyuan Wang](https://astro.ustc.edu.cn/2016/0113/c14965a259684/pagem.htm).
+      Thesis on The influence and constraints of large-scale structure on galaxy evolution. Supervised by [Huiyuan Wang] (https://astro.ustc.edu.cn/2016/0113/c14965a259684/pagem.htm).
     button:
       text: 'Read Thesis'
       url: 'https://kns.cnki.net/kcms2/article/abstract?v=vFI3APHTe53GtBh6fZuNPRO6ShP2EeLjt8Rsi37BNxw5PFLkuX58aYSEPvBepOKdXfgCyCY9MyID5RQWU2i4T5HR4skGalfSf9-7j575wDlt7mg2sKlXSSd9MrK1ZIKVH9csu1dcXfdkA1j7ZnBijLLuMVIQiz8gfKbse3Ir1VGO80X8j00HBw==&uniplatform=NZKPT&language=CHS'
@@ -70,6 +64,8 @@ education:
     institution: CEA Paris-Saclay
     date_start: 2023-04-01
     date_end: 2024-04-01
+    summary: |
+      Supervised by [Martin Kilbinger] (https://www.cosmostat.org/people/kilbinger).
 work:
   - position: Postdoc
     company_name: University of Science and Technology of China
@@ -90,15 +86,15 @@ skills:
       - name: Weak lensing
         description: ''
         percent: 95
-        icon: chart-bar
+        icon: code-bracket
       - name: Correlation function
         description: ''
         percent: 95
-        icon: circle-stack
+        icon: code-bracket
       - name: Machine learning
         description: ''
         percent: 75
-        icon: circle-stack
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
@@ -108,10 +104,34 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Coffee
+      - name: Morning Coffee
         description: ''
         percent: 100
         icon: ☕️
+      - name: Oil painting/Impressionism/Van Gogh
+        description: ''
+        percent: 100
+        icon: 🖼️       
+      - name: Philosophy about LIFE
+        description: ''
+        percent: 100
+        icon:  👽
+      - name: Robotic arm, like DUMMY
+        description: ''
+        percent: 100
+        icon:  🦾
+      - name: Traveling with friends
+        description: ''
+        percent: 100
+        icon:  🚞🏞️
+      - name: Reading
+        description: ''
+        percent: 100
+        icon:  📚
+      - name: Jazz
+        description: ''
+        percent: 100
+        icon:  🎷🎹🎶
 
 languages:
   - name: Chinese
@@ -124,35 +144,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: CAS Presidential Scholarship
+    url: https://www.cas.cn/
+    date: '2024'
+    awarder: Chinese Academy of Sciences
+    icon: CAS
+    summary: ''
+  - title: CSC Scholarship
+    url: https://www.csc.edu.cn/
+    date: '2023'
+    awarder: China Scholarship Council
+    icon: CSC
+    summary: ''
+  - title: CETC The 14TH Research Institute Glarun Scholarship
+    url: https://14.cetc.com.cn/
+    date: '2022'
+    awarder: CETC The 14TH Research Institute
+    icon: CETC
+    summary: ''
+  - title: Best oral presentation
+    url: https://nadc.china-vo.org/meetings/meetingInfo/245
+    date: '2021'
+    awarder: Galaxy and Cosmology Committee of the Chinese Astronomical Society
+    icon: ''
+    summary: ''
 ---
 
 ## About Me
 
-Dr. Zhang Ziwen received his PhD in Science from the Department of Astronomy at the University of Science and Technology of China (USTC), where he studied from September 2018 to November 2024. From April 2023 to April 2024, he participated in a joint PhD training program at CEA Paris-Saclay. Since December 2024, he has been working as a postdoctoral researcher at USTC.
+Dr. Zhang Ziwen received his PhD in Science from the Department of Astronomy at University of Science and Technology of China (USTC), where he studied from September 2018 to November 2024. From April 2023 to April 2024, he participated in a joint PhD training program at CEA Paris-Saclay. Since December 2024, he has been working as a postdoctoral researcher at USTC.
 
 His research focuses on galaxy formation and evolution, the connection between galaxies and dark matter halos, the co-evolution of active galactic nuclei (AGN) and their host galaxies, as well as weak gravitational lensing.
