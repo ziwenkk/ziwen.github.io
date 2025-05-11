@@ -56,16 +56,16 @@ education:
     date_start: 2018-09-01
     date_end: 2024-12-03
     summary: |
-      Thesis on The influence and constraints of large-scale structure on galaxy evolution. Supervised by [Huiyuan Wang] (https://astro.ustc.edu.cn/2016/0113/c14965a259684/pagem.htm).
+      Thesis on The influence and constraints of large-scale structure on galaxy evolution. Supervised by [Huiyuan Wang](https://astro.ustc.edu.cn/2016/0113/c14965a259684/pagem.htm).
     button:
       text: 'Read Thesis'
-      url: 'https://kns.cnki.net/kcms2/article/abstract?v=vFI3APHTe53GtBh6fZuNPRO6ShP2EeLjt8Rsi37BNxw5PFLkuX58aYSEPvBepOKdXfgCyCY9MyID5RQWU2i4T5HR4skGalfSf9-7j575wDlt7mg2sKlXSSd9MrK1ZIKVH9csu1dcXfdkA1j7ZnBijLLuMVIQiz8gfKbse3Ir1VGO80X8j00HBw==&uniplatform=NZKPT&language=CHS'
+      url: 'https://kns.cnki.net/kcms2/article/abstract?v=vFI3APHTe52zN6Xr6YberZ3l-MnW4u79pMc1GOktDozlijSouyK2GN9EyC1b2ptUZC5BTmALiCOhWRu5vfy5U8Q8I9xIPVADqWnZwSZgoiIJhj7xexakQBcRrlrGkSqX2mcYVmd8Fdbu-kWZ0pCGYfqw1-odNfz4LCrDDQGQ5a3lwihX_mUH_w==&uniplatform=NZKPT&language=CHS'
   - area: Joint PhD training program
     institution: CEA Paris-Saclay
     date_start: 2023-04-01
     date_end: 2024-04-01
     summary: |
-      Supervised by [Martin Kilbinger] (https://www.cosmostat.org/people/kilbinger).
+      Supervised by [Martin Kilbinger](https://www.cosmostat.org/people/kilbinger).
 work:
   - position: Postdoc
     company_name: University of Science and Technology of China
@@ -141,7 +141,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 85
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -152,25 +152,25 @@ awards:
     url: https://www.cas.cn/
     date: '2024-07-26'
     awarder: Chinese Academy of Sciences
-    icon: CAS
+    icon: ''
     summary: ''
   - title: Outstanding Graduate of University of Science and Technology of China
     url: https://www.ustc.edu.cn/
     date: '2024-04-15'
     awarder: University of Science and Technology of China
-    icon: USTC
+    icon: ''
     summary: ''
   - title: CSC Scholarship
     url: https://www.csc.edu.cn/
     date: '2022-10-01'
     awarder: China Scholarship Council
-    icon: CSC
+    icon: ''
     summary: ''
   - title: CETC The 14TH Research Institute Glarun Scholarship
     url: https://14.cetc.com.cn/
     date: '2022-06-01'
     awarder: CETC The 14TH Research Institute
-    icon: CETC
+    icon: ''
     summary: ''
   - title: Best oral presentation
     url: https://nadc.china-vo.org/meetings/meetingInfo/245
