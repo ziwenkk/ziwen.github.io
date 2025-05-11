@@ -95,6 +95,10 @@ skills:
         description: ''
         percent: 75
         icon: code-bracket
+      - name: Image coadding
+        description: ''
+        percent: 70
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
