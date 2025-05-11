@@ -11,7 +11,7 @@ last_name: 张，Zhang
 
 # Status emoji
 status:
-  icon: 🚴📖
+  icon: 🚴
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,10 +66,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://kns.cnki.net/kcms2/article/abstract?v=vFI3APHTe53GtBh6fZuNPRO6ShP2EeLjt8Rsi37BNxw5PFLkuX58aYSEPvBepOKdXfgCyCY9MyID5RQWU2i4T5HR4skGalfSf9-7j575wDlt7mg2sKlXSSd9MrK1ZIKVH9csu1dcXfdkA1j7ZnBijLLuMVIQiz8gfKbse3Ir1VGO80X8j00HBw==&uniplatform=NZKPT&language=CHS'
-  - area: Astronomy and Astrophysics
-    institution: University of Science and Technology of China
-    date_start: 2018-09-01
-    date_end: 2024-12-03
+  - area: Joint Ph.D. training program
+    institution: CEA Paris-Saclay
+    date_start: 2023-04-01
+    date_end: 2024-04-01
 work:
   - position: Postdoc
     company_name: University of Science and Technology of China
