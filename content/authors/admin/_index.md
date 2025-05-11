@@ -61,7 +61,7 @@ interests:
 education:
   - area: Doctor of Natural Science in Astronomy
     institution: University of Science and Technology of China
-    date_start: 2018-9-01
+    date_start: 2018-09-01
     date_end: 2024-12-03
     summary: |
       Thesis on The influence and constraints of large-scale structure on galaxy evolution. Supervised by [Prof Huiyuan Wang](https://astro.ustc.edu.cn/2016/0113/c14965a259684/pagem.htm).
@@ -70,7 +70,7 @@ education:
       url: 'https://kns.cnki.net/kcms2/article/abstract?v=vFI3APHTe53GtBh6fZuNPRO6ShP2EeLjt8Rsi37BNxw5PFLkuX58aYSEPvBepOKdXfgCyCY9MyID5RQWU2i4T5HR4skGalfSf9-7j575wDlt7mg2sKlXSSd9MrK1ZIKVH9csu1dcXfdkA1j7ZnBijLLuMVIQiz8gfKbse3Ir1VGO80X8j00HBw==&uniplatform=NZKPT&language=CHS'
   - area: Astronomy and Astrophysics
     institution: University of Science and Technology of China
-    date_start: 2018-9-01
+    date_start: 2018-09-01
     date_end: 2024-12-03
 work:
   - position: Postdoc
