@@ -11,7 +11,7 @@ last_name: 张，Zhang
 
 # Status emoji
 status:
-  icon: 🇨🇳🎆☕️
+  icon: 🚴📖
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,20 +31,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ziwenz@ustc.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/zzhang5285/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/ziwenkk
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=E0BrBbMAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-9272-5978
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Zhang-Ziwen/research
 
 interests:
   - Galaxy formation and evolution 🌌
@@ -110,10 +108,10 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Ultraman
+      - name: Coffee
         description: ''
         percent: 100
-        icon: 
+        icon: ☕️
 
 languages:
   - name: Chinese
@@ -155,4 +153,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Zhang Ziwen received his Ph.D. in Science from the Department of Astronomy at the University of Science and Technology of China (USTC), where he studied from September 2018 to November 2024. From April 2023 to April 2024, he participated in a joint Ph.D. training program at CEA Paris-Saclay. Since December 2024, he has been working as a postdoctoral researcher at USTC.
+
+His research focuses on galaxy formation and evolution, the connection between galaxies and dark matter halos, the co-evolution of active galactic nuclei (AGN) and their host galaxies, as well as weak gravitational lensing.
