@@ -170,7 +170,7 @@ awards:
     summary: ''
   - title: Best oral presentation
     url: https://nadc.china-vo.org/meetings/meetingInfo/245
-    date: '2021-5-17'
+    date: '2021-05-17'
     awarder: Galaxy and Cosmology Committee of the Chinese Astronomical Society
     icon: ''
     summary: ''
