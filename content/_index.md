@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "<span style='font-family: Times New Roman; font-size: 1.2em;'>一个追寻星辰的研究者</span>"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
