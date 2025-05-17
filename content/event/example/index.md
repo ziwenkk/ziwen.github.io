@@ -12,17 +12,18 @@ address:
   postcode: '230026'
   country: China
 
-summary: ''
+summary: 'A brief introduction to the large-scale structure of the universe and galaxy evolution.'
 abstract: 'This talk introduces the large-scale structure of the universe as well as the formation and evolution of galaxies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
+
 date: '2025-05-17T14:30:00Z'
 date_end: '2025-05-17T15:00:00Z'
-all_day: false
+
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2025-05-17'
 
 authors:
   - admin
