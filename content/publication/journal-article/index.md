@@ -1,40 +1,38 @@
 ---
-title: "An example journal article"
+title: "Unexpected clustering pattern in dwarf galaxies challenges formation models"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Ziwen Zhang
+- Yangyao Chen
+- Yu Rong
+- Huiyuan Wang
+- Houjun Mo
+- Xiong Luo
+- Hao Li
+date: "2025-05-21T00:00:00Z"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+publishDate: "2025-05-21T00:00:00Z"
 publication_types: ["article-journal"]
+publication: "*Nature*"
+doi: 10.48550/arXiv.2504.03305
+tags:
+- Cosmology and Nongalactic Astrophysics
+- Astrophysics of Galaxies
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2504.03305
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The galaxy correlation function serves as a fundamental tool for studying cosmology, galaxy formation, and the nature of dark matter. It is well established that more massive, redder and more compact galaxies tend to have stronger clustering in space. These results can be understood in terms of galaxy formation in Cold Dark Matter (CDM) halos of different mass and assembly history. Here, we report an unexpectedly strong large-scale clustering for isolated, diffuse and blue dwarf galaxies, comparable to that seen for massive galaxy groups but much stronger than that expected from their halo mass. Our analysis indicates that the strong clustering aligns with the halo assembly bias seen in simulations with the standard ΛCDM cosmology only if more diffuse dwarfs formed in low-mass halos of older ages. This pattern is not reproduced by existing models of galaxy evolution in a ΛCDM framework, and our finding provides new clues for the search of more viable models. Our results can be explained well by assuming self-interacting dark matter, suggesting that such a scenario should be considered seriously.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
+summary: ''
 featured: True
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://arxiv.org/abs/2504.03305
+url_code: 'https://github.com/ChenYangyao/dwarf_assembly_bias'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**HSC photometric catalog**](https://ui.adsabs.harvard.edu/abs/2018PASJ...70S...1M/abstract)'
   focal_point: ""
   preview_only: false
 
@@ -63,13 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
