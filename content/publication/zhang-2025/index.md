@@ -23,7 +23,7 @@ abstract: The galaxy correlation function serves as a fundamental tool for study
 tags:
   - Assembly Bias from Dwarf Galaxies
 
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Ziwen Zhang**](https://arxiv.org/pdf/2504.03305)'
