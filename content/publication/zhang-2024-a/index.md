@@ -28,7 +28,7 @@ tags:
 - '1880'
 - Astrophysics - Astrophysics of Galaxies
 
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Ziwen Zhang**](https://iopscience.iop.org/article/10.3847/1538-4357/ad0892/pdf)'
