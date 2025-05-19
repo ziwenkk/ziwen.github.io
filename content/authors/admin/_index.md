@@ -66,6 +66,11 @@ education:
     date_end: 2024-04-01
     summary: |
       Supervised by [Martin Kilbinger](https://www.cosmostat.org/people/kilbinger).
+  - area: Bachelor of Science degree
+    institution: Anhui University of Science and Technology
+    date_start: 2014-09-01
+    date_end: 2018-06-01
+    summary: ''
 work:
   - position: Postdoc
     company_name: University of Science and Technology of China
