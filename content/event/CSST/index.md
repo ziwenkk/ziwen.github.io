@@ -31,7 +31,7 @@ authors:
 tags: CSST talk
 
 # Is this a featured talk? (true/false)
-featured: ture
+featured: true
 
 image:
   caption: 'Image credit: [**Mingjing Chen**]'
