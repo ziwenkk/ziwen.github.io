@@ -17,7 +17,7 @@ date: '2024-11-01'
 publishDate: '2025-05-11T04:51:57.141400Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/202450623
 tags:
 - 'methods: statistical'
