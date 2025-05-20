@@ -34,6 +34,7 @@ tags: CSST talk
 featured: true
 
 image:
+  filename: featured.jpg
   caption: 'Image credit: [**Mingjing Chen**]'
   focal_point: Right
 
