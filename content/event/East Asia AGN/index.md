@@ -33,10 +33,10 @@ tags: East-Asia AGN talk
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  filename: featured.jpg
-  caption: 'Image credit: [**Zhihao Su**]'
-  focal_point: Right
+#image:
+#  filename: featured.jpg
+#  caption: 'Image credit: [**Zhihao Su**]'
+#  focal_point: Right
 
 #links:
 #  - icon: twitter
