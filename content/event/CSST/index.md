@@ -31,7 +31,7 @@ authors:
 tags: CSST talk
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   filename: featured.jpg
