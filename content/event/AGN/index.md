@@ -38,11 +38,6 @@ image:
   caption: 'Image credit: [**Zhihao Su**]'
   focal_point: Right
 
-<div style="display: flex; gap: 10px;">
-  <img src="./featured.jpg" alt="Photo 1" style="width: 48%;">
-  <img src="./group.jpg" alt="Photo 2" style="width: 48%;">
-</div>
-
 #links:
 #  - icon: twitter
 #    icon_pack: fab
@@ -64,3 +59,10 @@ slides: ""
 projects:
   - example
 ---
+
+<!-- 这里是 YAML 结束标记 -->
+
+<div style="display: flex; gap: 10px;">
+  <img src="./featured.jpg" alt="Photo 1" style="width: 48%;">
+  <img src="./group.jpg" alt="Photo 2" style="width: 48%;">
+</div>
