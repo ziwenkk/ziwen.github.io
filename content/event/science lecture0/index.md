@@ -32,6 +32,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+image: ""
 
 #image:
 #  caption: 'Image credit: [**Middle school teacher**]'

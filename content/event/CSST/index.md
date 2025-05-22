@@ -32,6 +32,7 @@ tags: CSST talk
 
 # Is this a featured talk? (true/false)
 featured: false
+image: ""
 
 #image:
 #  filename: featured.jpg
