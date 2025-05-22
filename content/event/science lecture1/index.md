@@ -32,7 +32,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
-image: ""
+
 image:
   caption: 'Image credit: [**Stargazer**]'
   focal_point: Right

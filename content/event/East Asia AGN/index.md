@@ -32,7 +32,7 @@ tags: East-Asia AGN talk
 
 # Is this a featured talk? (true/false)
 featured: false
-image: ""
+preview_only: flase
 
 #image:
 #  filename: featured.jpg
