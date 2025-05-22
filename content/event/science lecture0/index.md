@@ -32,7 +32,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-preview_only: flase
+preview_only: true
 
 #image:
 #  caption: 'Image credit: [**Middle school teacher**]'
