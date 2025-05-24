@@ -13,7 +13,7 @@ authors:
 - Samuel Farrens
 - Tobı́as I. Liaudat
 - Huiling Liu
-- Ziwen Zhang
+- [Ziwen Zhang]
 - Qingqing Wang
 - Elisa Russier
 - Axel Guinot

@@ -2,7 +2,7 @@
 title: 'Point spread function errors for weak lensing – density cross-correlations:
   Application to UNIONS'
 authors:
-- Ziwen Zhang
+- [Ziwen Zhang]
 - Martin Kilbinger
 - Fabian Hervas Peters
 - Qinxun Li

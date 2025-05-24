@@ -5,7 +5,7 @@ authors:
 - Hui Hong
 - Huiyuan Wang
 - H.~J. Mo
-- Ziwen Zhang
+- [Ziwen Zhang]
 - Guangwen Chen
 - Wentao Luo
 - Tinggui Wang

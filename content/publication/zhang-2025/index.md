@@ -1,7 +1,7 @@
 ---
 title: Unexpected clustering pattern in dwarf galaxies challenges formation models
 authors:
-- Ziwen Zhang
+- [Ziwen Zhang]
 - Yangyao Chen
 - Yu Rong
 - Huiyuan Wang
