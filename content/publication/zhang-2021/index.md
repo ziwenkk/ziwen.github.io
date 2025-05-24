@@ -1,7 +1,7 @@
 ---
 title: Hosts and triggers of AGNs in the Local Universe
 authors:
-- [Ziwen Zhang]
+- "<strong>Ziwen Zhang</strong>"
 - Huiyuan Wang
 - Wentao Luo
 - H.~J. Mo

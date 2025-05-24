@@ -6,7 +6,7 @@ authors:
 - Romain Paviot
 - Lucie Baumont
 - Elisa Russier
-- [Ziwen Zhang]
+- "<strong>Ziwen Zhang</strong>"
 - Calum Murray
 - Valeria Pettorino
 - Thomas de Boer
