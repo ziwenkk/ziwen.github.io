@@ -27,13 +27,11 @@ publishDate: '2023-05-23'
 authors:
   - admin
 
-tags: KIAA-DoA seminar
-
 # Is this a featured talk? (true/false)
 featured: false
 
----
+image:
+  caption: 'Image credit: [**KIAA website**]'
+  focal_point: Right
 
-<div style="display: flex; justify-content: center;">
-  <img src="./pic0.png" alt="Photo" style="width: 60%;">
-</div>
+---

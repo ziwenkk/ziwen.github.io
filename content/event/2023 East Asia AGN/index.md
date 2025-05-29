@@ -1,5 +1,5 @@
 ---
-title: 2023 East-Asia AGN Workshop, Kagoshima, Japan
+title: 2023 East-Asia AGN Workshop
 
 event: East-Asia AGN Workshop
 event_url: https://agarc.sci.kagoshima-u.ac.jp/east-asia-agn-workshop-2023-september-25-27-2023/

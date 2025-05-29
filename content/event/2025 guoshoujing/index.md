@@ -1,5 +1,5 @@
 ---
-title: The 27th Guo Shoujing Academic Symposium and 2025 Frontier Workshop on Galaxy Cosmology
+title: The 27th Guo Shoujing Academic Symposium
 
 event: Guo Shoujing Academic Symposium
 event_url: https://conferences.koushare.com/gsj2025
@@ -33,9 +33,9 @@ tags: []
 featured: false
 preview_only: true
 
-#image:
-#  caption: 'Image credit: [**Middle school teacher**]'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [**Jiayi Tang**]'
+  focal_point: Right
 
 #links:
 #  - icon: twitter
@@ -58,7 +58,3 @@ slides: ""
 projects:
   - example
 ---
-
-<div style="display: flex; justify-content: center;">
-  <img src="./pic0.jpg" alt="Photo" style="width: 60%;">
-</div>

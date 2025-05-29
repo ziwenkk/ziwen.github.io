@@ -33,9 +33,9 @@ tags: []
 featured: false
 preview_only: true
 
-#image:
-#  caption: 'Image credit: [**Middle school teacher**]'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [**Middle school teacher**]'
+  focal_point: Right
 
 #links:
 #  - icon: twitter
@@ -58,7 +58,3 @@ slides: ""
 projects:
   - example
 ---
-
-<div style="display: flex; justify-content: center;">
-  <img src="./featured.jpg" alt="Photo" style="width: 60%;">
-</div>

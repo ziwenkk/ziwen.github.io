@@ -31,10 +31,10 @@ authors:
 featured: false
 preview_only: true
 
-#image:
-#  filename: featured.jpg
-#  caption: 'Image credit: [**Mingjing Chen**]'
-#  focal_point: Right
+image:
+  filename: featured.jpg
+  caption: 'Image credit: [**Mingjing Chen**]'
+  focal_point: Right
 
 #links:
 #  - icon: twitter
