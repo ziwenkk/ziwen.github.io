@@ -20,7 +20,6 @@ abstract: 'This talk presents the main ideas of my paper: Halo mass-observable p
 date: '2023-05-23'
 date_end: '2023-05-23'
 
-
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-05-23'
 

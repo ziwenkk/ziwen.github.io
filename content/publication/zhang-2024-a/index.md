@@ -27,10 +27,9 @@ featured: true
 
 image:
   caption: 'Image credit: [**Ziwen Zhang**](https://iopscience.iop.org/article/10.3847/1538-4357/ad0892/pdf)'
-  focal_point: ""
   preview_only: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2305.06803
+- name: iop
+  url: https://iopscience.iop.org/article/10.3847/1538-4357/ad0892
 ---

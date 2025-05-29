@@ -10,7 +10,7 @@ address:
   city: Kagoshima City
   region: Kagoshima Prefecture
   postcode: '890-8580'
-  country: Japan
+  country: 'Japan'
 
 abstract: 'This talk presents the main ideas of my paper: Hosts and triggers of AGNs in the Local Universe'
 
