@@ -29,6 +29,7 @@ authors:
 
 # Is this a featured talk? (true/false)
 featured: false
+preview_only: true
 
 image:
   caption: 'Image credit: [**KIAA website**]'
