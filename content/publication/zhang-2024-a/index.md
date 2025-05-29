@@ -29,6 +29,7 @@ image:
   caption: 'Image credit: [**Ziwen Zhang**](https://iopscience.iop.org/article/10.3847/1538-4357/ad0892/pdf)'
   focal_point: center
   preview_only: false
+  size: 50%
 
 links:
 - name: iop
