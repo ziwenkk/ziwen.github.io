@@ -27,8 +27,6 @@ publishDate: '2025-05-17'
 authors:
   - admin
 
-tags: East-Asia AGN talk
-
 # Is this a featured talk? (true/false)
 featured: false
 preview_only: true
