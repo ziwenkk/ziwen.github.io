@@ -12,7 +12,6 @@ address:
   postcode: 
   country: 
 
-summary: ''
 abstract: 'This talk presents the main ideas of my paper: Halo mass-observable proxy scaling relations and their dependencies on galaxy and group properties'
 
 # Talk start and end times.

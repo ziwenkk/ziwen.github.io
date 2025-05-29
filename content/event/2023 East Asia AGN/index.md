@@ -12,7 +12,6 @@ address:
   postcode: '890-8580'
   country: Japan
 
-summary: ''
 abstract: 'This talk presents the main ideas of my paper: Hosts and triggers of AGNs in the Local Universe'
 
 # Talk start and end times.

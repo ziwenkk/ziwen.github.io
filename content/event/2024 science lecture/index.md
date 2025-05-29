@@ -12,7 +12,6 @@ address:
   postcode: '230601'
   country: China
 
-summary: 'In this presentation, I will introduce the formation mechanisms of various celestial objects in the universe and explore how they interact with each other during their evolution. A key topic I will discuss is the “death” of galaxies—what it means, how it happens, and the factors that drive it on different physical scales. The talk will conclude with an overview of our research group’s recent findings, focusing on the evolutionary history of galaxies.'
 abstract: 'This presentation aims to explore the formation and evolution of different celestial bodies in the universe. It highlights the dynamic interactions among these objects and delves into one of the central topics in modern astrophysics: the mechanisms behind galaxy quenching, or the so-called “death” of galaxies. By examining processes across multiple scales—from internal galactic physics to large-scale cosmic environments—we seek to understand the key drivers behind this transformation. Finally, the talk will showcase recent work from our research group, presenting new insights into the life cycle and evolutionary pathways of galaxies.'
 
 # Talk start and end times.

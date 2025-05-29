@@ -12,7 +12,6 @@ address:
   postcode: '310003'
   country: China
 
-summary: ''
 abstract: 'This talk presents the main ideas of my paper: Halo Mass-observable Proxy Scaling Relations and Their Dependencies on Galaxy and Group Properties'
 
 # Talk start and end times.

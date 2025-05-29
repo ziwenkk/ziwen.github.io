@@ -12,7 +12,6 @@ address:
   postcode: '230026'
   country: China
 
-summary: 'A brief introduction to the large-scale structure of the universe and galaxy evolution.'
 abstract: 'This talk introduces the large-scale structure of the universe as well as the formation and evolution of galaxies.'
 
 # Talk start and end times.

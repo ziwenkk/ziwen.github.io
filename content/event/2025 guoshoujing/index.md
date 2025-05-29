@@ -12,7 +12,7 @@ address:
   postcode: 
   country: China
 
-summary: 'In this talk, I presented research conducted over the past seven years on the galaxy–halo connection.'
+abstract: 'In this talk, I presented research conducted over the past seven years on the galaxy–halo connection.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
