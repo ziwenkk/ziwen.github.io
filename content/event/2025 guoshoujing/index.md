@@ -4,9 +4,6 @@ title: The 27th Guo Shoujing Academic Symposium and 2025 Frontier Workshop on Ga
 event: Guo Shoujing Academic Symposium
 event_url: https://conferences.koushare.com/gsj2025
 
-Howard Johnson Huachen Plaza Changsha
-(No. 8, Section 2, Wanjiali Middle Road, Yuhua District, Changsha, China)
-
 location: Howard Johnson Huachen Plaza 
 address:
   street: No. 8, Section 2, Wanjiali Middle Road
