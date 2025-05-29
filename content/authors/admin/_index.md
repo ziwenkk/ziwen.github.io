@@ -107,7 +107,8 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking(/content/hobbies/hiking/)
+      - name: Hiking
+        url: /content/hobbies/hiking/
         description: ''
         percent: 100
         icon: person-simple-walk
