@@ -1,16 +1,16 @@
 ---
-title: 🎉 Group photo at CEA-Paris Saclay
-date: 2024-03-14
+title: 🎉 Received a scholarship from the China Scholarship Council
+date: 2022-10-01
 
 image:
-  caption: 'Image credit: [**Leïla**]'
+  caption: 'CSC Certificate'
 
 authors:
   - admin
   - Ziwen Zhang
 
 tags:
-  - CEA group photo
+  - Scholarship
 ---
 
 Conducted academic exchange at CEA-Paris Saclay！

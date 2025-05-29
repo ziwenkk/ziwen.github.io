@@ -1,6 +1,5 @@
 ---
 title: 🎉 PhD graduation
-summary: I have successfully defended my PhD dissertation!
 date: 2024-10-24
 
 # Featured image
@@ -16,9 +15,7 @@ tags:
   - PhD graduation
 ---
 
-Welcome to my PhD thesis defense 👋. The members of my defense committee are [list of committee members]. My PhD advisors are Professor Huiyuan Wang and Researcher Wentao Luo.
-
-{{< toc mobile_only=true is_open=true >}}
+Welcome to my PhD thesis defense 👋. I have successfully defended my PhD dissertation! The members of my defense committee are [list of committee members]. My PhD advisors are Professor Huiyuan Wang and Researcher Wentao Luo.
 
 ## Overview
 
