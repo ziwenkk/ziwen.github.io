@@ -9,8 +9,8 @@ address:
   street: Kechuang Avenue
   city: Hangzhou, Zhejiang Province
   region: Yuhang District
-  postcode: '310003'
-  country: China
+  postcode: 310003, China
+  country: 
 
 abstract: 'This talk presents the main ideas of my paper: Halo Mass-observable Proxy Scaling Relations and Their Dependencies on Galaxy and Group Properties'
 

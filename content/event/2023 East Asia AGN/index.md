@@ -9,8 +9,8 @@ address:
   street: 1-21-24 Korimoto
   city: Kagoshima City
   region: Kagoshima Prefecture
-  postcode: '890-8580'
-  country: 'Japan'
+  postcode: 890-8580, Japan
+  country: 
 
 abstract: 'This talk presents the main ideas of my paper: Hosts and triggers of AGNs in the Local Universe'
 

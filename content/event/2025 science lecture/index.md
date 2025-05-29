@@ -9,8 +9,8 @@ address:
   street: No. 96 Jinzhai Road
   city: Hefei
   region: Anhui Province
-  postcode: '230026'
-  country: China
+  postcode: 230026, China
+  country: 
 
 abstract: 'This talk introduces the large-scale structure of the universe as well as the formation and evolution of galaxies.'
 

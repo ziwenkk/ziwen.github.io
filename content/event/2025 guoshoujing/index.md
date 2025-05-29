@@ -9,8 +9,8 @@ address:
   street: No. 8, Section 2, Wanjiali Middle Road
   city: Changsha
   region: Yuhua District
-  postcode: 
-  country: China
+  postcode: China
+  country: 
 
 abstract: 'In this talk, I presented research conducted over the past seven years on the galaxy–halo connection.'
 
