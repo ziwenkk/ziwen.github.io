@@ -34,3 +34,7 @@ tags: KIAA-DoA seminar
 featured: false
 
 ---
+
+<div style="display: flex; justify-content: center;">
+  <img src="./pic0.png" alt="Photo" style="width: 60%;">
+</div>
