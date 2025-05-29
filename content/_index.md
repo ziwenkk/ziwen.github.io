@@ -55,6 +55,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 5
       filters:
         folders:
           - publication
@@ -65,6 +66,7 @@ sections:
     id: talks
     content:
       title: Recent Talks
+      count: 6
       filters:
         folders:
           - event
@@ -80,7 +82,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 4
+      count: 5
       # Filter on criteria
       filters:
         author: ""

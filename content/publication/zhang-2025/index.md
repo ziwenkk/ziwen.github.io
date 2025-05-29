@@ -26,7 +26,7 @@ featured: true
 
 image:
   caption: 'Image credit: [**Ziwen Zhang**](https://www.nature.com/articles/s41586-025-08965-5#citeas)'
-  focal_point: center
+  focal_point: left
   preview_only: false
 
 links:
