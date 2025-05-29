@@ -6,9 +6,9 @@ event_url: https://kiaa.pku.edu.cn/info/1025/8931.htm
 
 location: Online
 address:
-  street: 
+  street:
   city: 
-  region:
+  region: 
   postcode: 
   country: 
 
@@ -26,7 +26,8 @@ publishDate: '2023-05-23'
 authors:
   - admin
 
-# Is this a featured talk? (true/false)
+tags: []
+
 featured: false
 preview_only: true
 
@@ -34,4 +35,7 @@ image:
   caption: 'Image credit: [**KIAA website**]'
   focal_point: Right
 
+slides: ""
+projects:
+  - example
 ---
