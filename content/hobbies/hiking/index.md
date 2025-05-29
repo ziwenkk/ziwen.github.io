@@ -1,6 +1,6 @@
 ---
 title: Hiking is my passion
-date: 2024-0
+date: 2025-05-29
 
 gallery:
   - image: ./pic0.jpg
