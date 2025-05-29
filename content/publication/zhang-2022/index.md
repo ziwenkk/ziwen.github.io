@@ -1,7 +1,7 @@
 ---
 title: Massive star-forming galaxies have converted most of their halo gas into stars
 authors:
-- "<strong>Ziwen Zhang</strong>"
+- Ziwen Zhang
 - Huiyuan Wang
 - Wentao Luo
 - Jun Zhang
