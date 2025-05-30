@@ -19,6 +19,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Life & Creations
     url: projects/
     weight: 30
