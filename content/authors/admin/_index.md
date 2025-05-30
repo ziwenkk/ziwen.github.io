@@ -108,38 +108,33 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        url: /hobbies/hiking/
         description: ''
         percent: 100
         icon: person-simple-walk
       - name: Morning Coffee
         description: ''
         percent: 100
-        icon: ☕️
-      - name: Oil painting/Impressionism/Van Gogh
+        icon: fa-coffee
+      - name: Oil painting
         description: ''
         percent: 100
-        icon: 🖼️       
-      - name: Philosophy about LIFE
-        description: ''
-        percent: 100
-        icon:  👽
+        icon: fa-palette      
       - name: Robotic arm, like DUMMY
         description: ''
         percent: 100
-        icon:  🦾
-      - name: Traveling with friends
+        icon:  fa-robot
+      - name: Traveling
         description: ''
         percent: 100
-        icon:  🚞🏞️
+        icon:  fa-globe
       - name: Reading
         description: ''
         percent: 100
-        icon:  📚
+        icon:  fa-book-reader
       - name: Jazz
         description: ''
         percent: 100
-        icon:  🎷🎹🎶
+        icon:  bi-music-note
 
 languages:
   - name: Chinese
