@@ -1,5 +1,5 @@
 ---
-title: 🎉 Team Photo for Nature Publication
+title: 🎉 Team Photo for Our Nature Publication
 date: 2025-03-28
 
 # Featured image
