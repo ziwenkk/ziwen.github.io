@@ -2,7 +2,7 @@
 title: "Hiking is my passion!"
 date: 2025-05-29
 
-description: "I love hiking in the mountains and forests. It helps me connect with nature."
+summary: I love hiking in the mountains and forests. It helps me connect with nature.
 
 image:
     caption: 'The next route to conquer'
@@ -15,6 +15,13 @@ tags:
   - Hiking
 
 ---
+
+Hiking is one of my favorite hobbies. It allows me to explore beautiful landscapes and stay active.
+
+I usually hike on weekends and take photos of nature.
+
+### Get Started
+- 👉 [**Create a new site**](https://hugoblox.com/templates/)
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <figure style="width: 19%;">
@@ -38,11 +45,3 @@ tags:
     <figcaption style="text-align: center;">Southern Taihang Mountains, 2024-07-31</figcaption>
   </figure>
 </div>
-
-
-Hiking is one of my favorite hobbies. It allows me to explore beautiful landscapes and stay active.
-
-I usually hike on weekends and take photos of nature.
-
-### Get Started
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
