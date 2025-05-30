@@ -111,7 +111,7 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Morning Coffee
+      - name: Traveling
         description: ''
         percent: 100
         icon: code-bracket
@@ -119,11 +119,11 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Robotic arm, like DUMMY
+      - name: Morning Coffee
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Traveling
+      - name: Robotic arm, like DUMMY
         description: ''
         percent: 100
         icon: code-bracket
