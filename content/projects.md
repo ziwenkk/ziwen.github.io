@@ -12,7 +12,10 @@ sections:
   - block: collection
     content:
       title: Art, Tech & Adventures
-      text: "There are only two ways to confront the absurdity of life: either become absolutely numb, or live with absolute passion. Tried the first, turning to the second."
+      text: |
+      "There are only two ways to confront the absurdity of life:"
+      "either become absolutely numb, or live with absolute passion."
+      "Tried the first, turning to the second."
       filters:
         folders:
           - project
