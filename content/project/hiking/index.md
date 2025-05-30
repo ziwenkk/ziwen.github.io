@@ -5,7 +5,7 @@ date: 2025-05-29
 description: "I love hiking in the mountains and forests. It helps me connect with nature."
 
 image:
-  - filename: ./tmb.jpg
+  - filename: tmb.jpg
     caption: "The next route to conquer"
 
 authors:
