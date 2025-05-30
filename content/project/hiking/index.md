@@ -4,11 +4,10 @@ date: 2025-05-29
 
 description: "I love hiking in the mountains and forests. It helps me connect with nature."
 
-images:
-  - ./pic0.jpg
-  - ./pic1.jpg
-  - ./pic2.jpg
-
+image:
+  filename: pic0.jpg
+  focal_point: Right
+  
 authors:
   - admin
   - Ziwen Zhang
