@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-abstract: 'This talk presents the main ideas of my paper: Halo mass-observable proxy scaling relations and their dependencies on galaxy and group properties'
+abstract: 'In this talk, I presented the main ideas of my paper: *Halo Mass-Observable Proxy Scaling Relations and Their Dependencies on Galaxy and Group Properties.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -12,7 +12,7 @@ address:
   postcode: 890-8580, Japan
   country: 
 
-abstract: 'This talk presents the main ideas of my paper: Hosts and triggers of AGNs in the Local Universe'
+abstract: 'In this talk, I presented the main ideas of my paper: Hosts and Triggers of AGNs in the Local Universe.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
