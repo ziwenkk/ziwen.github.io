@@ -5,7 +5,7 @@ date: 2025-05-29
 summary: I love hiking in the mountains and forests. It helps me connect with nature.
 
 image:
-    caption: 'The next route to conquer'
+    caption: '[**The next route to conquer**](https://tourdumontblanchike.com/)'
 
 authors:
   - admin
