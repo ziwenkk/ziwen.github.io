@@ -16,7 +16,7 @@ tags:
 
 ---
 
-I enjoy hiking and exploring remote, untouched places — far from the crowds, where I can truly listen to the voice within and reconnect with myself.
+I enjoy hiking and exploring remote, untouched places — far from the crowds, where I can listen to the voice within.
 
 <div style="display: flex; gap: 1%; flex-wrap: wrap;">
   <figure style="width: 32%; margin-bottom: 1%;">

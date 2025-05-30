@@ -16,7 +16,7 @@ tags:
 
 ---
 
-I love traveling and exploring new places, one destination at a time.
+I love traveling and exploring new places, savoring each places with intention and curiosity.
 
 <div style="display: flex; gap: 1%; flex-wrap: wrap;">
   <figure style="width: 32%; margin-bottom: 1%;">

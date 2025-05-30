@@ -2,7 +2,7 @@
 title: "Brushstrokes in Oil"
 date: 2025-05-28
 
-summary: I’m an amateur painter inspired by Impressionism and Van Gogh, enjoying the journey of developing my own art.
+summary: I’m also an amateur painter inspired by Impressionism and Van Gogh, enjoying the journey of developing my own art.
 
 image:
     caption: '[**A Letter to Theo**](https://www.vangoghmuseum.nl/en)'
