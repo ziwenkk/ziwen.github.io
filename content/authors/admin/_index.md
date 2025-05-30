@@ -114,27 +114,27 @@ skills:
       - name: Morning Coffee
         description: ''
         percent: 100
-        icon: fa-coffee
+        icon: coffee
       - name: Oil painting
         description: ''
         percent: 100
-        icon: fa-palette      
+        icon: palette      
       - name: Robotic arm, like DUMMY
         description: ''
         percent: 100
-        icon:  fa-robot
+        icon:  robot
       - name: Traveling
         description: ''
         percent: 100
-        icon:  fa-globe
+        icon:  map-trifold
       - name: Reading
         description: ''
         percent: 100
-        icon:  fa-book-reader
+        icon:  books
       - name: Jazz
         description: ''
         percent: 100
-        icon:  bi-music-note
+        icon:  music-notes
 
 languages:
   - name: Chinese
