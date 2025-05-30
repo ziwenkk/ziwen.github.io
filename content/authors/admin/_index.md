@@ -107,11 +107,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: Traveling
+      - name: Reading
         description: ''
         percent: 100
         icon: code-bracket
@@ -123,15 +119,11 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
+      - name: Traveling & Hiking
+        description: ''
+        percent: 100
+        icon: person-simple-walk
       - name: Robotic arm, like DUMMY
-        description: ''
-        percent: 100
-        icon: code-bracket
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: code-bracket
-      - name: Jazz
         description: ''
         percent: 100
         icon: code-bracket
