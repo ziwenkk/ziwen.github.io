@@ -8,7 +8,7 @@ images:
   - ./pic0.jpg
   - ./pic1.jpg
   - ./pic2.jpg
-
+  
 authors:
   - admin
   - Ziwen Zhang
