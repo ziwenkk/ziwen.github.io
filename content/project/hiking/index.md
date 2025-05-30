@@ -4,18 +4,6 @@ date: 2025-05-29
 
 description: "I love hiking in the mountains and forests. It helps me connect with nature."
 
-image:
-  - filename: ./pic3.jpg
-    caption: "Western Anhui Grand Canyon, 2025-05-18"
-  - filename: ./pic4.jpg
-    caption: "Mount Tai， 2025-04-20"
-  - filename: ./pic2.jpg
-    caption: "She County, 2025-03-22"
-  - filename: ./pic1.jpg
-    caption: "Wugong Mountain, 2024-10-01"
-  - filename: ./pic0.jpg
-    caption: "Southern Taihang Mountains, 2024-07-31"
-
 authors:
   - admin
   - Ziwen Zhang
@@ -24,6 +12,31 @@ tags:
   - Hiking
 
 ---
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <figure style="width: 19%;">
+    <img src="./pic3.jpg" alt="Western Anhui Grand Canyon, 2025-05-18" style="width: 100%;">
+    <figcaption style="text-align: center;">Western Anhui Grand Canyon, 2025-05-18</figcaption>
+  </figure>
+  <figure style="width: 19%;">
+    <img src="./pic4.jpg" alt="Mount Tai， 2025-04-20" style="width: 100%;">
+    <figcaption style="text-align: center;">Mount Tai， 2025-04-20</figcaption>
+  </figure>
+  <figure style="width: 19%;">
+    <img src="./pic2.jpg" alt="She County, 2025-03-22" style="width: 100%;">
+    <figcaption style="text-align: center;">She County, 2025-03-22</figcaption>
+  </figure>
+  <figure style="width: 19%;">
+    <img src="./pic1.jpg" alt="Wugong Mountain, 2024-10-01" style="width: 100%;">
+    <figcaption style="text-align: center;">Wugong Mountain, 2024-10-01</figcaption>
+  </figure>
+  <figure style="width: 19%;">
+    <img src="./pic0.jpg" alt="Southern Taihang Mountains, 2024-07-31" style="width: 100%;">
+    <figcaption style="text-align: center;">Southern Taihang Mountains, 2024-07-31</figcaption>
+  </figure>
+</div>
+
+
 Hiking is one of my favorite hobbies. It allows me to explore beautiful landscapes and stay active.
 
 I usually hike on weekends and take photos of nature.
