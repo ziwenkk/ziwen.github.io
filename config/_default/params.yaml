@@ -61,3 +61,6 @@ features:
 
 custom_css:
   - css/custom.css
+
+sharing:
+  enable: false
