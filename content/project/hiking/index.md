@@ -30,7 +30,7 @@ I usually hike on weekends and take photos of nature.
   </figure>
   <figure style="width: 24%;">
     <img src="./pic4.jpg" alt="Mount Tai， 2025-04-20" style="width: 100%;">
-    <figcaption style="text-align: center;">Mount Tai， 2025-04-20</figcaption>
+    <figcaption style="text-align: center;">Mount Ta, 2025-04-20</figcaption>
   </figure>
   <figure style="width: 24%;">
     <img src="./pic2.jpg" alt="She County, 2025-03-22" style="width: 100%;">
