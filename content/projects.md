@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Art, Tech & Adventures
+      text: There are only two ways to confront the absurdity of life: either become absolutely numb, or live with absolute passion. Tried the first, turning to the second.
       filters:
         folders:
           - project
