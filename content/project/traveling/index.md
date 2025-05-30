@@ -21,7 +21,7 @@ I love traveling and exploring new places, one destination at a time.
 <div style="display: flex; gap: 1%; flex-wrap: wrap;">
   <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic0.jpg" alt="Osaka, Japan, 2024-12-11" style="width: 100%;">
-    <figcaption style="text-align: center;">Osaka, Japan, 2025-05-18</figcaption>
+    <figcaption style="text-align: center;">Osaka, Japan, 2024-12-11</figcaption>
   </figure>
   <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic1.jpg" alt="Rome, Italy, 2023-03-28" style="width: 100%;">

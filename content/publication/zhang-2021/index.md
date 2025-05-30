@@ -34,6 +34,11 @@ abstract: |
   Our results suggest a scenario in which the interaction of the central galaxy with the satellites triggers an early episode of starburst and AGN activity, followed by multiple AGN cycles driven by the non-axisymmetric structure produced by the interaction.
   The feedback from the starburst and AGN reduces the amount of cold gas for fueling the central black hole, producing a characteristic halo mass scale, that is, ∼10¹² h⁻¹ M⊙, where the AGN fraction peaks.
 
+image:
+  caption: 'Image credit: [**Ziwen Zhang**](https://www.aanda.org/articles/aa/full_html/2021/06/aa40150-20/aa40150-20.html)'
+  focal_point: ""
+  preview_only: false
+
 tags:
 - Galaxy dark matter halos
 - Weak gravitational lensing

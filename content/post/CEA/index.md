@@ -13,7 +13,4 @@ tags:
   - CEA group photo
 ---
 
-Conducted academic exchange at CEA-Paris Saclay！
-
-### Get Started
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+I have successfully completed my joint training program at CEA-Paris Saclay. I would like to extend my sincere gratitude to all the mentors, colleagues, and friends who have supported me throughout this period. It has been a great privilege to work and learn alongside such dedicated and talented individuals.

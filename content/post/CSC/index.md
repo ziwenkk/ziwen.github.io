@@ -12,8 +12,3 @@ authors:
 tags:
   - Scholarship
 ---
-
-Conducted academic exchange at CEA-Paris Saclay！
-
-### Get Started
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)

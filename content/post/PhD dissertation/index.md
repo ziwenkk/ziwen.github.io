@@ -17,10 +17,5 @@ tags:
 
 Welcome to my PhD thesis defense 👋. I have successfully defended my PhD dissertation! The members of my defense committee are [list of committee members]. My PhD advisors are Professor Huiyuan Wang and Researcher Wentao Luo.
 
-## Overview
-
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-
-### Get Started
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+This milestone would not have been possible without the unwavering guidance and support of my advisors, whose mentorship have been instrumental throughout my academic journey. I am also deeply thankful to my friends and peers for their constant encouragement and companionship over the years. Thank you all for being part of my journey.
 
