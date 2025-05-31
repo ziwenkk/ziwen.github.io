@@ -32,6 +32,6 @@ image:
   size: 50%
 
 links:
-- name: iop
+- name: APJ
   url: https://iopscience.iop.org/article/10.3847/1538-4357/ad0892
 ---

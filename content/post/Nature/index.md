@@ -1,5 +1,5 @@
 ---
-title: 🎉 Team Photo for Our Nature Publication
+title: 🎉 Team Photos for Our Nature Publication
 date: 2025-03-28
 
 # Featured image
@@ -15,10 +15,10 @@ image:
   focal_point: Right
 
 tags:
-  - Team Photo
+  - Team Photos
 ---
 
-Our research on dwarf galaxies was published in Nature under the title [**Unexpected clustering pattern in dwarf galaxies challenges formation models**](https://www.nature.com/articles/s41586-025-08965-5). This team photos were taken by the Publicity Department of USTC to commemorate this important milestone 🥳.
+Our research on dwarf galaxies was published in Nature under the title [**Unexpected clustering pattern in dwarf galaxies challenges formation models**](https://www.nature.com/articles/s41586-025-08965-5). These team photos were taken by the Publicity Department of USTC to commemorate this important milestone 🥳.
 
 <div style="display: flex; gap: 10px;">
   <img src="./pic0.JPG" alt="Photo 1" style="width: 48%;">

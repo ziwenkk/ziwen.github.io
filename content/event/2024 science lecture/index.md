@@ -17,8 +17,8 @@ abstract: 'In this talk, I discussed how different celestial objects formed and 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 
-date: '2024-09-13'
-date_end: '2024-09-13'
+date: '2024-09-13T17:00:00Z'
+date_end: '2024-09-13T18:00:00Z'
 
 
 # Schedule page publish date (NOT talk date).

@@ -17,8 +17,8 @@ abstract: 'In this talk, I presented the main ideas of my paper: Halo Mass-Obser
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 
-date: '2023-05-23'
-date_end: '2023-05-23'
+date: '2023-05-23T13:30:00Z'
+date_end: '2023-05-23T14:15:00Z'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-05-23'
@@ -32,7 +32,7 @@ featured: false
 preview_only: true
 
 image:
-  caption: 'Image credit: [**KIAA website**]'
+  caption: 'Image credit: [**KIAA website**](https://kiaa.pku.edu.cn/info/1025/8931.htm)'
   focal_point: Right
 
 slides: ""

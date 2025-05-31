@@ -15,8 +15,8 @@ authors:
   - Enci Wang
   - Pengfei Li
   - JingJing Shi
-date: '2021-06-01'
-publishDate: '2025-05-11T04:51:57.101494Z'
+date: '2021-06-24'
+publishDate: '2021-06-24'
 publication_types:
   - article-journal
 publication: '*A&A*'

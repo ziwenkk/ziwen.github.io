@@ -9,8 +9,8 @@ authors:
 - YiPeng Jing
 - Xiaohu Yang
 - Hao Li
-date: '2022-07-01'
-publishDate: '2025-05-11T04:51:57.111981Z'
+date: '2022-07-14'
+publishDate: '2022-07-14'
 publication_types:
 - article-journal
 publication: "*A&A*"
