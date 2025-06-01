@@ -62,4 +62,4 @@ features:
 custom_css:
   - css/custom.css
 
-share: false
+enableRobotsTXT: true
