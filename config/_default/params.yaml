@@ -62,4 +62,9 @@ features:
 custom_css:
   - css/custom.css
 
+baseURL: "https://ziwenkk.github.io/ziwen.github.io/"
+languageCode: "en-us"
+title: "Ziwen Hugo Site"
+theme: "Ziwen homepage"
+
 enableRobotsTXT: true
