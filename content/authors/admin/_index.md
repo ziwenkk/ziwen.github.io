@@ -20,6 +20,8 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoc
 
+share: false
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Science and Technology of China
