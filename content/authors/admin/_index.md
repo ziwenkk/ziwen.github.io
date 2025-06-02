@@ -20,8 +20,6 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoc
 
-share: false
-
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Science and Technology of China
@@ -47,33 +45,6 @@ profiles:
 # Hugo Blox
 # Social sharing links
 # Docs: https://docs.hugoblox.com/reference/page-sharer/
-
-links:
-  - id: x
-    url: 'https://twitter.com/intent/tweet?url={url}&text={title}'
-    title: X
-    icon: brands/x
-    enable: false
-  - id: facebook
-    url: 'https://www.facebook.com/sharer.php?u={url}&t={title}'
-    title: Facebook
-    icon: brands/facebook
-    enable: false
-  - id: email
-    url: 'mailto:?subject={title}&body={url}'
-    title: Email
-    icon: hero/at-symbol
-    enable: false
-  - id: linkedin
-    url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
-    title: LinkedIn
-    icon: brands/linkedin
-    enable: false
-  - id: whatsapp
-    url: 'whatsapp://send?text={title}%20{url}'
-    title: WhatsApp
-    icon: brands/whatsapp
-    enable: false
 
 interests:
   - Galaxy formation and evolution
