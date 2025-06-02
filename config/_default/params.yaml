@@ -14,8 +14,14 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Ziwen Zhang — Academic researcher in astrophysics. Showcasing my research progress and publications.'
+    keywords:
+      - Ziwen Zhang
+      - Astrophysics
+      - Research
+      - Academic
+      - Publications
+      - Science
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,8 +29,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
-    baidu: ''
+    google: 'googlec176c49d8c118208'   # Google Search Console 验证码
 
 # Site header
 header:
