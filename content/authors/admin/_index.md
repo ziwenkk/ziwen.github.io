@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张子文
+title: Ziwen Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: Ziwen Zhang
