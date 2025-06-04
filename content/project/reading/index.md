@@ -8,9 +8,6 @@ abstract: I love reading! Over time, I’ve realized that some books merit multi
 image:
     caption: '[**Image credit**](https://media.ascensionpress.com/2019/10/15/13-books-that-should-be-on-every-catholics-bookshelf/)'
 
-
-
-
 authors:
   - admin
   - Ziwen Zhang
