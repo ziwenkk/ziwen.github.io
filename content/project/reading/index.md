@@ -20,12 +20,10 @@ tags:
 <div style="display: flex; gap: 1%; flex-wrap: wrap;">
   <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic0.jpg" alt="One hundred years of solitude" style="width: 100%;">
-    <figcaption style="text-align: center;">One hundred years of solitude: A beautiful story. Read it once—you’ll want to read it ten more 
-
-<figcaption style="text-align: center;">
-  One hundred years of solitude: A beautiful story. 
-  <details>
-    <summary>👉 Click to view the solution</summary>
-    You found me!
-  </details>
-</figcaption>
+    <figcaption style="text-align: center;"> One hundred years of solitude <details>
+    <summary>👉 Click here for comment</summary>
+    A beautiful story. Read it once—you’ll want to read it ten more times!
+    </details>
+    </figcaption>
+  </figure>
+</div>
