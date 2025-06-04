@@ -46,4 +46,18 @@ tags:
     </figcaption>
   </figure>
 
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic2.jpg" alt="Sophie's World" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Sophie%27s_World" target="_blank">
+      Sophie's World
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      An interesting book that takes you through the evolutionary history of philosophy — a great introduction to philosophy.<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
 </div>
