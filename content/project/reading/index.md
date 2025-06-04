@@ -70,7 +70,7 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       An interesting book that takes you through the evolutionary history of philosophy — a great introduction to philosophy.<br>
-      Score: 🍔🍔🍔🍔
+      Score: 🍔🍔🍔
     </details>
     </figcaption>
   </figure>
@@ -84,7 +84,7 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       I find it so hard to understand women — they're so deep and complex.<br>
-      Score: 🍔🍔🍔🍔
+      Score: 🍔🍔🍔
     </details>
     </figcaption>
   </figure>
@@ -98,7 +98,7 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       You loved me, but I didn’t love you back. I left you, yet I needed you, so I came back — and you forgave me. In the end, we are all free???<br>
-      Score: 🍔🍔🍔
+      Score: 🍔🍔
     </details>
     </figcaption>
   </figure>
