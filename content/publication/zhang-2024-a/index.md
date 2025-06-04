@@ -2,7 +2,7 @@
 title: Halo Mass-observable Proxy Scaling Relations and Their Dependencies on Galaxy
   and Group Properties
 authors:
-- Ziwen Zhang
+- admin
 - Huiyuan Wang
 - Wentao Luo
 - Houjun Mo

@@ -3,7 +3,7 @@ title: Measuring Mass of Gas in Central Galaxies using weak lensing and satellit
   kinematics in MOND
 authors:
 - Li Ma
-- Ziwen Zhang
+- admin
 - Huiyuan Wang
 - Xufen Wu
 date: '2025-05-02'
