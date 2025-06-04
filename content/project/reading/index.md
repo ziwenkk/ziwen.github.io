@@ -33,7 +33,7 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic5.jpg" alt="Selected Works of Mao Tse-Tung" style="width: 100%;">
+    <img src="./pic5.png" alt="Selected Works of Mao Tse-Tung" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Selected_Works_of_Mao_Tse-Tung" target="_blank">
       Selected Works of Mao Tse-Tung
