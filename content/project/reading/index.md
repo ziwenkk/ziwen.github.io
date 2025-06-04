@@ -3,7 +3,7 @@ title: "Book Reviews"
 date: 2025-05-10
 
 summary: Here are some of my reflections and thoughts on these books.
-abstract: I love reading! Over time, I’ve realized that some books merit multiple readings, while others can be skipped. What follows are my highly subjective impressions of several books. If you haven’t read them before, I suggest skipping the review. But if you have, I invite you to see whether you agree or disagree 🤣.
+abstract: I love reading! Over time, I’ve realized that some books merit multiple readings, while others can be skipped. What follows are my highly subjective impressions of several books. If you haven’t read them before, I suggest skipping the review. But if you have, I invite you to see whether you agree or disagree 🤣.<br> My top recommended books will be awarded 5 🍔, while the least recommended ones will get 5 🥦.
 
 image:
     caption: '[**Image credit**](https://media.ascensionpress.com/2019/10/15/13-books-that-should-be-on-every-catholics-bookshelf/)'
@@ -26,7 +26,8 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      A beautiful story. Read it once—you’ll want to read it ten more times!
+      A beautiful story. Read it once—you’ll want to read it ten more times!<br>
+      Score: 🍔🍔🍔🍔🍔
     </details>
     </figcaption>
   </figure>
