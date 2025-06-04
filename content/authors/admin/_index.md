@@ -6,8 +6,8 @@ title: 张子文
 name_pronunciation: Ziwen Zhang
 
 # Full name (for SEO)
-first_name: 子文，Ziwen
-last_name: 张，Zhang
+first_name: Ziwen
+last_name: Zhang
 
 # Status emoji
 

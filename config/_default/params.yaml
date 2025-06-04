@@ -67,6 +67,10 @@ features:
 custom_css:
   - css/custom.css
 
+commentable: true
+show_breadcrumb: true
+show_related: true
+
 baseURL: "https://ziwenkk.github.io/ziwen.github.io/"
 languageCode: "en-us"
 title: "Ziwen Hugo Site"
