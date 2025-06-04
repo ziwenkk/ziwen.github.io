@@ -40,9 +40,10 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      Well, you love me, I don't love you back. I leave you, I need you, I came back. We are all free...<br>
+      You loved me, but I didn’t love you back. I left you, yet I needed you, so I came back — and you forgave me. In the end, we are all free???<br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
   </figure>
+
 </div>
