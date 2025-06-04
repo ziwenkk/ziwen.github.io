@@ -33,15 +33,30 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic1.jpg" alt="Freedom (Franzen novel)" style="width: 100%;">
+    <img src="./pic5.jpg" alt="Selected Works of Mao Tse-Tung" style="width: 100%;">
     <figcaption style="text-align: center;">
-    <a href="https://en.wikipedia.org/wiki/Freedom_(Franzen_novel)" target="_blank">
-      Freedom (Franzen novel)
+    <a href="https://en.wikipedia.org/wiki/Selected_Works_of_Mao_Tse-Tung" target="_blank">
+      Selected Works of Mao Tse-Tung
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      You loved me, but I didn’t love you back. I left you, yet I needed you, so I came back — and you forgave me. In the end, we are all free???<br>
-      Score: 🍔🍔🍔
+      These books are filled with wisdom and strategy — essential reading for young people as they grow. You can draw strength and confidence from them. Young people are the rising sun, and the hope of the world!<br>
+      Score: 🍔🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic6.jpg" alt="Romance of the Three Kingdoms" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms" target="_blank">
+      Romance of the Three Kingdoms
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      "I do not ask to be born on the same year, month, and day — I only wish to die on the same year, month, and day as you."<br>
+      A savage era, a legendary tale！<br>
+      Score: 🍔🍔🍔🍔🍔
     </details>
     </figcaption>
   </figure>
@@ -59,5 +74,48 @@ tags:
     </details>
     </figcaption>
   </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic3.jpg" alt="Neapolitan Novels" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Neapolitan_Novels" target="_blank">
+      Neapolitan Novels
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      I find it so hard to understand women — they're so deep and complex.<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic1.jpg" alt="Freedom (Franzen novel)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Freedom_(Franzen_novel)" target="_blank">
+      Freedom (Franzen novel)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      You loved me, but I didn’t love you back. I left you, yet I needed you, so I came back — and you forgave me. In the end, we are all free???<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic4.jpg" alt="The Temple of the Golden Pavilion" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion" target="_blank">
+      The Temple of the Golden Pavilion
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      The protagonist in the story is both morbid and self-abasing — what might this reveal about the author? Yet the prose remains beautiful.<br>
+      Score: 🥦
+    </details>
+    </figcaption>
+  </figure>
+
 
 </div>
