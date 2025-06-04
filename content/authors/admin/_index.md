@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ziwen Zhang
+title: 张子文
 
 # Name pronunciation (optional)
 name_pronunciation: Ziwen Zhang
@@ -10,7 +10,9 @@ first_name: 子文, Ziwen
 last_name: 张, Zhang
 
 # Status emoji
-
+status:
+  icon: ☕️
+  
 # Is this the primary user of the site?
 superuser: true
 
