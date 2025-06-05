@@ -35,8 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |
-        I am a postdoctoral researcher at USTC. I use a mix of data analysis, theoretical modeling and simulations to understand the physical processes driving the formation and evolution of galaxies.
-
+        I am a postdoctoral researcher at USTC. I use a mix of data analysis, theoretical modeling and simulations to understand the physical processes driving the formation and evolution of galaxies.<br>
         Always happy to connect and collaborate on exciting science 🔭🪐🌌
       filters:
         folders:
