@@ -42,7 +42,7 @@ sections:
         folders:
           - research
     design:
-      view: compact
+      view: article-grid
       fill_image: false
       columns: 3
   - block: collection
