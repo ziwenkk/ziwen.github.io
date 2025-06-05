@@ -62,7 +62,7 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic14.png" alt="五味" style="width: 100%;">
+    <img src="./pic14.jpg" alt="五味" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://www.goodreads.com/book/show/19044873" target="_blank">
       五味
@@ -90,7 +90,7 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic13.png" alt="一句顶一万句" style="width: 100%;">
+    <img src="./pic13.jpg" alt="一句顶一万句" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://zh.wikipedia.org/wiki/%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5" target="_blank">
       一句顶一万句
