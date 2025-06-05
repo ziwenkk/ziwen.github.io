@@ -83,8 +83,8 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      I love this story, full of warmth yet tinged with cruelty. How many stories does one person go through in their lifetime, and after the curtain falls, do these stories continue to echo?<br>
-      Score: 🍔🍔🍔🍔
+      我喜欢这个温情而略带残酷的故事。一个人一辈子要经历多少磨难？而这些故事在人故去之后是否还会有回响？<br>
+      Score: 🍔🍔🍔
     </details>
     </figcaption>
   </figure>
@@ -98,6 +98,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       An interesting book that takes you through the evolutionary history of philosophy — a great introduction to philosophy.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic10.jpg" alt="沧浪之水" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://baike.baidu.com/item/%E6%B2%A7%E6%B5%AA%E4%B9%8B%E6%B0%B4/3144669" target="_blank">
+      沧浪之水
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      波云诡谲的权利斗争。我也要当卫生局局长！<br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
