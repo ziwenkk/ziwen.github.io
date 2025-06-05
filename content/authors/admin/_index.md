@@ -179,6 +179,6 @@ awards:
 
 ## About Me
 
-Dr. Zhang Ziwen received his PhD in Science from the Department of Astronomy at University of Science and Technology of China (USTC), where he studied from September 2018 to November 2024. From April 2023 to April 2024, he participated in a joint PhD training program at CEA Paris-Saclay. Since December 2024, he has been working as a postdoctoral researcher at USTC.
+Dr. Zhang Ziwen received his PhD in Science from the Department of Astronomy at University of Science and Technology of China (中国科学技术大学, USTC), where he studied from September 2018 to November 2024. From April 2023 to April 2024, he participated in a joint PhD training program at CEA Paris-Saclay. Since December 2024, he has been working as a postdoctoral researcher at USTC.
 
 His research focuses on galaxy formation and evolution, the connection between galaxies and dark matter halos, the co-evolution of active galactic nuclei (AGN) and their host galaxies, as well as weak gravitational lensing.
