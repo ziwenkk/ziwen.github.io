@@ -104,7 +104,7 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic10.jpg" alt="沧浪之水" style="width: 100%;">
+    <img src="./pic10.png" alt="沧浪之水" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://baike.baidu.com/item/%E6%B2%A7%E6%B5%AA%E4%B9%8B%E6%B0%B4/3144669" target="_blank">
       沧浪之水
