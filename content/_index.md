@@ -30,16 +30,21 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text: |
         I am a postdoctoral researcher at USTC. I use a mix of data analysis, theoretical modeling and simulations to understand the physical processes driving the formation and evolution of galaxies.
 
         Always happy to connect and collaborate on exciting science 🔭🪐🌌
+      filters:
+        folders:
+          - research
     design:
-      columns: '1'
+      view: article-grid
+      fill_image: false
+      columns: 3
   - block: collection
     id: papers
     content:
