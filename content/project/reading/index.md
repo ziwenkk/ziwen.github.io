@@ -76,6 +76,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic9.png" alt="南货店" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://baike.baidu.com/item/%E5%8D%97%E8%B4%A7%E5%BA%97/51855882" target="_blank">
+      南货店
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      I love this story, full of warmth yet tinged with cruelty. How many stories does one person go through in their lifetime, and after the curtain falls, do these stories continue to echo?<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic2.jpg" alt="Sophie's World" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Sophie%27s_World" target="_blank">
@@ -98,6 +112,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       I find it so hard to understand women — they're so deep and complex.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic8.jpg" alt="Invisible Child: Poverty, Survival & Hope in an American City" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Invisible_Child:_Poverty,_Survival_%26_Hope_in_an_American_City" target="_blank">
+      Invisible Child: Poverty, Survival & Hope in an American City
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      The structural poverty caused by capitalist society makes individuals feel powerless and insignificant in the waves of social change.<br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
