@@ -62,6 +62,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic14.png" alt="五味" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://www.goodreads.com/book/show/19044873" target="_blank">
+      五味
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      每次读到这本书，总感到一种深至内心的轻松与温柔。原来好好地吃好每一餐饭，是一件幸福到心缝里的事儿。<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic7.png" alt="The Border Town" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/The_Border_Town" target="_blank">
@@ -70,6 +84,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       The poignant love stories that once unfolded in places I yearn for.<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic13.png" alt="一句顶一万句" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://zh.wikipedia.org/wiki/%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5" target="_blank">
+      一句顶一万句
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      找一个能说得上话的人，是很难得事儿.<br>
       Score: 🍔🍔🍔🍔
     </details>
     </figcaption>
@@ -132,6 +160,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic12.jpg" alt="Las Venas Abiertas de América Latina" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://es.wikipedia.org/wiki/Las_venas_abiertas_de_Am%C3%A9rica_Latina" target="_blank">
+      Las Venas Abiertas de América Latina
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      When the fate of a nation is not in the hands of its people, it inevitably means the tragedy of life. Hang in there, friends of Latin America.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic8.jpg" alt="Invisible Child: Poverty, Survival & Hope in an American City" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Invisible_Child:_Poverty,_Survival_%26_Hope_in_an_American_City" target="_blank">
@@ -141,6 +183,34 @@ tags:
     <summary>👉 Show comment</summary>
       The structural poverty caused by capitalist society makes individuals feel powerless and insignificant in the waves of social change.<br>
       Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic15.jpg" alt="文城" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%9F%8E_(%E5%B0%8F%E8%AF%B4)" target="_blank">
+      文城
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      我觉得一般，和《一句顶一万句》有点像。<br>
+      Score: 🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic11.jpg" alt="The Little Prince" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Little_Prince" target="_blank">
+      The Little Prince
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      It should be a very interesting book, but I just can't get into it. Am I too old for this?<br>
+      Score: 🍔🍔
     </details>
     </figcaption>
   </figure>
