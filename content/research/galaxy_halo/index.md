@@ -1,5 +1,6 @@
 ---
 title: "Galaxy-halo connection"
+date: 
 
 summary: The description of my research on the galaxy-halo connection.
 
