@@ -1,8 +1,8 @@
 ---
-title: "Galaxy-halo connection"
+title: "Satellite kinematics"
 date: 2025-06-05
 
-summary: The description of my research on galaxy-halo connection.
+summary: The description of my research on satellite kinematics.
 
 image:
     caption: '[**Image credit**](https://arxiv.org/pdf/1907.11775)'
@@ -12,7 +12,6 @@ authors:
   - Ziwen Zhang
 
 tags:
-  - Galaxy-halo connection
+  - xxx
 
 ---
-

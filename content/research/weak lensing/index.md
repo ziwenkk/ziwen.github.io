@@ -1,8 +1,8 @@
 ---
 title: "Weak gravitational lensing"
-date: 2025-06-05
+date: 2025-06-04
 
-summary: The description of my research on the weak gravitational lensing.
+summary: The description of my research on weak gravitational lensing.
 
 image:
     caption: '[**Image credit**](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)'
