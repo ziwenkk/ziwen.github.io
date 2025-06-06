@@ -1,6 +1,7 @@
 ---
 title: Unexpected clustering pattern in dwarf galaxies challenges formation models
 authors:
+- [1]
 - admin
 - Yangyao Chen
 - Yu Rong
