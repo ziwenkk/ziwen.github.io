@@ -116,15 +116,11 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: hero/book-open
       - name: Oil painting
         description: ''
         percent: 100
-        icon: code-bracket
-      - name: Morning Coffee
-        description: ''
-        percent: 100
-        icon: code-bracket
+        icon: hero/pencil
       - name: Traveling & Hiking
         description: ''
         percent: 100
@@ -132,7 +128,11 @@ skills:
       - name: Robotic arm, like DUMMY
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: hb/robot
+      - name: Morning Coffee on a rainy day
+        description: ''
+        percent: 100
+        icon: hb/coffee
 
 languages:
   - name: Chinese
