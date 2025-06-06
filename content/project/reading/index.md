@@ -104,6 +104,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic17.jpg" alt="Walden" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Walden" target="_blank">
+      Walden
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      A place where the soul finds rest. <br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic9.png" alt="南货店" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://baike.baidu.com/item/%E5%8D%97%E8%B4%A7%E5%BA%97/51855882" target="_blank">
@@ -182,6 +196,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       The structural poverty caused by capitalist society makes individuals feel powerless and insignificant in the waves of social change.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic16.png" alt="祥瑞：王莽和他的时代" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://baike.baidu.com/item/%E7%A5%A5%E7%91%9E%EF%BC%9A%E7%8E%8B%E8%8E%BD%E5%92%8C%E4%BB%96%E7%9A%84%E6%97%B6%E4%BB%A3/58484515" target="_blank">
+      祥瑞：王莽和他的时代
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      书很有趣，又学一课，道术有别。克己复礼、阴谋诡计都是术。而道是济世安民、顺势而为，是光明正道、是大公无私。王莽终究是习术而走火入魔矣。此外，“祥瑞”这个切入点很好！<br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
