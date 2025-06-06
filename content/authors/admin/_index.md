@@ -128,11 +128,11 @@ skills:
       - name: Robotic arm, like DUMMY
         description: ''
         percent: 100
-        icon: hb/robot
+        icon: hero/cpu
       - name: Morning Coffee on a rainy day
         description: ''
         percent: 100
-        icon: hb/coffee
+        icon: hero/cup
 
 languages:
   - name: Chinese
