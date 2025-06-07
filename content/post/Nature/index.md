@@ -31,43 +31,43 @@ Below is a list of the organized report links.
 
 ## University of Science and Technology of China (USTC)
 
-- [USTC News Portal: Official Release](https://news.ustc.edu.cn/info/1056/91677.htm) 
-- [USTC News Portal: Follow-up](https://news.ustc.edu.cn/info/1056/91712.htm) 
-- [Office of Scientific Research, USTC](https://kyb.ustc.edu.cn/2025/0522/c21899a685711/page.htm)
-- [School of Physics, USTC](https://physics.ustc.edu.cn/2025/0526/c3586a686175/page.htm) 
-- [Undergraduate Admissions, USTC](https://zsb.ustc.edu.cn/2025/0523/c35565a686338/page.htm) 
+1. [USTC News Portal: Official Release](https://news.ustc.edu.cn/info/1056/91677.htm) 
+2. [USTC News Portal: Follow-up](https://news.ustc.edu.cn/info/1056/91712.htm) 
+3. [Office of Scientific Research, USTC](https://kyb.ustc.edu.cn/2025/0522/c21899a685711/page.htm)
+4. [School of Physics, USTC](https://physics.ustc.edu.cn/2025/0526/c3586a686175/page.htm) 
+5. [Undergraduate Admissions, USTC](https://zsb.ustc.edu.cn/2025/0523/c35565a686338/page.htm) 
 
 ## National Research Institutions & Science Media
 
-- [Chinese Academy of Sciences (CAS) – Official News](https://www.cas.cn/syky/202505/t20250521_5069289.shtml)
-- [CAS News Center](https://www.cas.cn/cm/202505/t20250522_5069513.shtml)
-- [CCTV News](https://news.cctv.com/2025/05/22/ARTIhERZkzaNFfZbBU4lbZbW250522.shtml) {#cctv-news}
-- [Science and Technology Daily (Digital)](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-05/22/content_588913.htm) {#science-technology-daily}
-- [ScienceNet.cn Coverage](https://news.sciencenet.cn/htmlnews/2025/5/544370.shtm) {#sciencenet-coverage}
+6. [Chinese Academy of Sciences (CAS) – Official News](https://www.cas.cn/syky/202505/t20250521_5069289.shtml)
+7. [CAS News Center](https://www.cas.cn/cm/202505/t20250522_5069513.shtml)
+8. [CCTV News](https://news.cctv.com/2025/05/22/ARTIhERZkzaNFfZbBU4lbZbW250522.shtml)
+9. [Science and Technology Daily (Digital)](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-05/22/content_588913.htm)
+10. [ScienceNet.cn Coverage](https://news.sciencenet.cn/htmlnews/2025/5/544370.shtm) 
 
 ## Government Portals and Local Officials
 
-- [Anhui Provincial Government – Daily News](https://www.ah.gov.cn/zwyw/jryw/565427971.html) {#anhui-gov-daily-news}
-- [Anhui Provincial Department of Science and Technology](https://kjt.ah.gov.cn/kjzx/mtjj/122877591.html) {#anhui-dept-science-tech}
-- [Hefei Local News (WeHefei)](https://www.wehefei.com/news/2025/05/22/c_656117.htm) {#hefei-local-news}
+11. [Anhui Provincial Government – Daily News](https://www.ah.gov.cn/zwyw/jryw/565427971.html) 
+12. [Anhui Provincial Department of Science and Technology](https://kjt.ah.gov.cn/kjzx/mtjj/122877591.html) 
+13. [Hefei Local News (WeHefei)](https://www.wehefei.com/news/2025/05/22/c_656117.htm) 
 
 ## Mainstream Media & Commercial Portals
 
-- [The Paper (main site)](https://www.thepaper.cn/newsDetail_forward_30858906) {#the-paper}
-- [Sina Finance](https://finance.sina.cn/2025-05-22/detail-inexkrfp2130754.d.html) {#sina-finance}
-- [Global Times – Tech Channel](https://tech.huanqiu.com/article/4MmJKof8iDN) {#global-times-tech}
-- [Sohu News](https://www.sohu.com/a/898030929_120252297) {#sohu-news}
-- [NetEase News](https://www.163.com/dy/article/K05133BV0514R9NK.html) {#netease-news}
-- [Tencent News](https://news.qq.com/rain/a/20250529A091H700) {#tencent-news}
+14. [The Paper (main site)](https://www.thepaper.cn/newsDetail_forward_30858906)
+15. [Sina Finance](https://finance.sina.cn/2025-05-22/detail-inexkrfp2130754.d.html) 
+16. [Global Times – Tech Channel](https://tech.huanqiu.com/article/4MmJKof8iDN) 
+17. [Sohu News](https://www.sohu.com/a/898030929_120252297) 
+18. [NetEase News](https://www.163.com/dy/article/K05133BV0514R9NK.html) 
+19. [Tencent News](https://news.qq.com/rain/a/20250529A091H700) 
 
 ## Additional Coverage
 
-- [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4) {#nature-research-briefing}
-- [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml) {#cas-dwarf-galaxy-research}
-- [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) {#phys-dwarf-galaxy-clustering}
-- [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) {#eurekalert-dwarf-galaxies}
-- [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/) {#mirage-news-dwarf-galaxy-clustering}
-- [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) {#scienmag-dwarf-galaxies-clustering}
-- [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) {#bioengineer-dwarf-galaxies-clustering}
+20. [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4) 
+- [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)
+21. [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) 
+22. [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) 
+23. [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/)
+24. [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) 
+25. [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) 
 
 
