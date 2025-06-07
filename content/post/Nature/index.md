@@ -66,9 +66,6 @@ Below is a list of the organized report links.
 - [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml) {#cas-dwarf-galaxy-research}
 - [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) {#phys-dwarf-galaxy-clustering}
 - [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) {#eurekalert-dwarf-galaxies}
-
-## Dwarf Galaxy Clustering and Models
-
 - [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/) {#mirage-news-dwarf-galaxy-clustering}
 - [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) {#scienmag-dwarf-galaxies-clustering}
 - [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) {#bioengineer-dwarf-galaxies-clustering}
