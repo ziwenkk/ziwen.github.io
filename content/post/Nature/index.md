@@ -10,7 +10,7 @@ authors:
   - Ziwen Zhang
 
 image:
-  filename: pic0.jpg
+  filename: pic1.jpg
   caption: 'Image credit: [**USTC Publicity Department**]'
   focal_point: Right
 
@@ -46,18 +46,22 @@ Below is a list of the organized report links.
 ### Government Portals and Local Officials
 
 11. [Anhui Provincial Government – Daily News](https://www.ah.gov.cn/zwyw/jryw/565427971.html)  
-12. [Anhui Provincial Department of Science and Technology](https://kjt.ah.gov.cn/kjzx/mtjj/122877591.html)
+12. [Anhui Provincial Department of Science and Technology](https://kjt.ah.gov.cn/kjzx/mtjj/122877591.html)  
+13. [Hefei Local News (WeHefei)](https://www.wehefei.com/news/2025/05/22/c_656117.htm)  
 
 ### Mainstream Media & Commercial Portals
 
-13. [The Paper (main site)](https://www.thepaper.cn/newsDetail_forward_30858906)  
-14. [Sina Finance](https://finance.sina.cn/2025-05-22/detail-inexkrfp2130754.d.html)  
-15. [Global Times – Tech Channel](https://tech.huanqiu.com/article/4MmJKof8iDN)  
-16. [Sohu News](https://www.sohu.com/a/898030929_120252297)  
-17. [NetEase News](https://www.163.com/dy/article/K05133BV0514R9NK.html)
-
-### Regional News & Collaboration Media
-
-18. [Hefei Local News (WeHefei)](https://www.wehefei.com/news/2025/05/22/c_656117.htm)  
+14. [The Paper (main site)](https://www.thepaper.cn/newsDetail_forward_30858906)  
+15. [Sina Finance](https://finance.sina.cn/2025-05-22/detail-inexkrfp2130754.d.html)  
+16. [Global Times – Tech Channel](https://tech.huanqiu.com/article/4MmJKof8iDN)  
+17. [Sohu News](https://www.sohu.com/a/898030929_120252297)  
+18. [NetEase News](https://www.163.com/dy/article/K05133BV0514R9NK.html)  
 19. [Tencent News](https://news.qq.com/rain/a/20250529A091H700)
+
+### Additional Coverage
+
+- [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4)  
+- [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)  
+- [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html)  
+- [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875)  
 
