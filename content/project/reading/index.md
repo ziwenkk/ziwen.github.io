@@ -33,29 +33,29 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic5.png" alt="Selected Works of Mao Tse-Tung" style="width: 100%;">
+    <img src="./pic5.png" alt="毛泽东选集" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Selected_Works_of_Mao_Tse-Tung" target="_blank">
-      Selected Works of Mao Tse-Tung
+      毛泽东选集
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      These books are filled with wisdom and strategy — essential reading for young people as they grow. You can draw strength and confidence from them. Young people are the rising sun, and the hope of the world!<br>
+      这些书籍充满了智慧和策略——是年轻人成长过程中必读的书籍。你可以从中汲取力量和自信。青年人是冉冉升起的太阳，是世界的希望！<br>
       Score: 🍔🍔🍔🍔🍔
     </details>
     </figcaption>
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic6.jpg" alt="Romance of the Three Kingdoms" style="width: 100%;">
+    <img src="./pic6.jpg" alt="三国演义" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms" target="_blank">
-      Romance of the Three Kingdoms
+      三国演义
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      "I do not ask to be born on the same year, month, and day — I only wish to die on the same year, month, and day as you."<br>
-      A savage era, a legendary tale！<br>
+      “不求同年同月同日生——但求同年同月同日死。”
+      一个野蛮的时代，一段传奇的故事！<br>
       Score: 🍔🍔🍔🍔🍔
     </details>
     </figcaption>
@@ -90,14 +90,14 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic7.png" alt="The Border Town" style="width: 100%;">
+    <img src="./pic7.png" alt="边城" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/The_Border_Town" target="_blank">
-      The Border Town
+      边城
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      The poignant love stories that once unfolded in places I yearn for.<br>
+      在我心神向往的地方，发生的一段动人爱情故事。<br>
       Score: 🍔🍔🍔🍔
     </details>
     </figcaption>
