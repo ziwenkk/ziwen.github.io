@@ -60,8 +60,8 @@ Below is a list of the organized report links.
 
 ### Additional Coverage
 
-- [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4)  
-- [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)  
-- [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html)  
-- [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875)  
+20. [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4)  
+21. [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)  
+22. [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html)  
+23. [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875)  
 

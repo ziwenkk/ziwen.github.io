@@ -62,6 +62,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic19.jpg" alt="围城" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://zh.wikipedia.org/wiki/%E5%9B%B4%E5%9F%8E_(%E5%B0%8F%E8%AF%B4)" target="_blank">
+      围城
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      语言幽默风趣，讽刺辛辣深刻，书中无不彰显钱老的智慧，是一本伟大的小说。<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic14.jpg" alt="五味" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://www.goodreads.com/book/show/19044873" target="_blank">
@@ -202,6 +216,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic20.jpg" alt="明朝那些事儿" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://zh.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%85%92" target="_blank">
+      明朝那些事儿
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      很有意思的丛书。然而，在这些书中，没有谁是主角，作者才是。本系列书更像是作者对历史的读后感，读时需慎辨主观与客观。<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic16.png" alt="祥瑞：王莽和他的时代" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://baike.baidu.com/item/%E7%A5%A5%E7%91%9E%EF%BC%9A%E7%8E%8B%E8%8E%BD%E5%92%8C%E4%BB%96%E7%9A%84%E6%97%B6%E4%BB%A3/58484515" target="_blank">
@@ -224,6 +252,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       我觉得一般，和《一句顶一万句》有点像。<br>
+      Score: 🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic18.jpg" alt="Moscow, December 25th, 1991: The Last Day of the Soviet Union" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://www.amazon.com/Moscow-December-25th-1991-Soviet/dp/1848271131" target="_blank">
+      Moscow, December 25th, 1991: The Last Day of the Soviet Union
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      This book lists many interesting events and serves as a decent diary. However, the writing style is poor, as it's merely a collection of events without much depth.<br>
       Score: 🍔🍔
     </details>
     </figcaption>
