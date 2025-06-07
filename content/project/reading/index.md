@@ -327,5 +327,18 @@ tags:
     </figcaption>
   </figure>
 
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic22.png" alt="塔勒布丛书" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="" target="_blank">
+      塔勒布丛书
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      都说这些书写得好，真的好吗？不过是掉书袋的装x之作。几句话就能讲清楚，非得写成一套书。害老子读半天...<br>
+      Score: 🥦🥦🥦
+    </details>
+    </figcaption>
+  </figure>
 
 </div>

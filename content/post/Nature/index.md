@@ -31,16 +31,16 @@ Below is a list of the organized report links.
 
 ## University of Science and Technology of China (USTC)
 
-- [USTC News Portal: Official Release](https://news.ustc.edu.cn/info/1056/91677.htm) {#ustc-news-release}
-- [USTC News Portal: Follow-up](https://news.ustc.edu.cn/info/1056/91712.htm) {#ustc-news-follow-up}
-- [Office of Scientific Research, USTC](https://kyb.ustc.edu.cn/2025/0522/c21899a685711/page.htm) {#ustc-office-research}
-- [School of Physics, USTC](https://physics.ustc.edu.cn/2025/0526/c3586a686175/page.htm) {#ustc-school-physics}
-- [Undergraduate Admissions, USTC](https://zsb.ustc.edu.cn/2025/0523/c35565a686338/page.htm) {#ustc-undergraduate-admissions}
+- [USTC News Portal: Official Release](https://news.ustc.edu.cn/info/1056/91677.htm) 
+- [USTC News Portal: Follow-up](https://news.ustc.edu.cn/info/1056/91712.htm) 
+- [Office of Scientific Research, USTC](https://kyb.ustc.edu.cn/2025/0522/c21899a685711/page.htm)
+- [School of Physics, USTC](https://physics.ustc.edu.cn/2025/0526/c3586a686175/page.htm) 
+- [Undergraduate Admissions, USTC](https://zsb.ustc.edu.cn/2025/0523/c35565a686338/page.htm) 
 
 ## National Research Institutions & Science Media
 
-- [Chinese Academy of Sciences (CAS) – Official News](https://www.cas.cn/syky/202505/t20250521_5069289.shtml) {#cas-official-news}
-- [CAS News Center](https://www.cas.cn/cm/202505/t20250522_5069513.shtml) {#cas-news-center}
+- [Chinese Academy of Sciences (CAS) – Official News](https://www.cas.cn/syky/202505/t20250521_5069289.shtml)
+- [CAS News Center](https://www.cas.cn/cm/202505/t20250522_5069513.shtml)
 - [CCTV News](https://news.cctv.com/2025/05/22/ARTIhERZkzaNFfZbBU4lbZbW250522.shtml) {#cctv-news}
 - [Science and Technology Daily (Digital)](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-05/22/content_588913.htm) {#science-technology-daily}
 - [ScienceNet.cn Coverage](https://news.sciencenet.cn/htmlnews/2025/5/544370.shtm) {#sciencenet-coverage}
