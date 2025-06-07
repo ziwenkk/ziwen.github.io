@@ -43,5 +43,13 @@ I enjoy hiking and exploring remote, untouched places — far from the crowds, w
     <img src="./pic5.jpg" alt="Unknown volcano in Iceland, 2024-03-17" style="width: 100%;">
     <figcaption style="text-align: center;">Unknown volcano in Iceland, 2024-03-17</figcaption>
   </figure>
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic6.jpg" alt="Yellow mountain, 2022-01-19" style="width: 100%;">
+    <figcaption style="text-align: center;">Yellow mountain, 2022-01-19</figcaption>
+  </figure>
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic7.jpg" alt="2019" style="width: 100%;">
+    <figcaption style="text-align: center;">2019</figcaption>
+  </figure>
 </div>
 

@@ -63,11 +63,11 @@ Below is a list of the organized report links.
 ## Additional Coverage
 
 20. [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4) 
-- [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)
-21. [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) 
-22. [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) 
-23. [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/)
-24. [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) 
-25. [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) 
+21. [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)
+22. [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) 
+23. [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) 
+24. [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/)
+25. [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) 
+26. [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) 
 
 

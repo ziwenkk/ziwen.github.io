@@ -39,4 +39,12 @@ I am an amateur painter without formal training, gotta keep learning and trying 
     <img src="./pic4.jpg" alt="Woman with an Umbrella" style="width: 100%;">
     <figcaption style="text-align: center;">Woman with an Umbrella</figcaption>
   </figure>
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic5.jpg" alt="A Boat" style="width: 100%;">
+    <figcaption style="text-align: center;">A Boat</figcaption>
+  </figure>
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic6.jpg" alt="Some Flowers" style="width: 100%;">
+    <figcaption style="text-align: center;">Some Flowers</figcaption>
+  </figure>
 </div>
