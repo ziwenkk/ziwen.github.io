@@ -76,6 +76,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic21.jpg" alt="朝花夕拾" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://zh.wikipedia.org/zh-cn/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE" target="_blank">
+      朝花夕拾
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      每年必读，长长硬骨头。<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic14.jpg" alt="五味" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://www.goodreads.com/book/show/19044873" target="_blank">
