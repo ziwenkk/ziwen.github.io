@@ -28,7 +28,7 @@ I am an amateur painter without formal training, gotta keep learning and trying 
     <figcaption style="text-align: center;">The Distant Road</figcaption>
   </figure>
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic2.jpg" alt="A Starry Night" style="width: 100%;">
+    <img src="./pic2.png" alt="A Starry Night" style="width: 100%;">
     <figcaption style="text-align: center;">A Starry Night</figcaption>
   </figure>
   <figure style="width: 32%; margin-bottom: 1%;">
