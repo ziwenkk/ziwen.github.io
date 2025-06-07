@@ -111,7 +111,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      找一个能说得上话的人，是很难得事儿.<br>
+      找一个能说得上话的人，是很难得事儿。但是话是不是有点太密了，正着说，反着说，颠来倒去地说。<br>
       Score: 🍔🍔🍔🍔
     </details>
     </figcaption>
