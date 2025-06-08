@@ -2,17 +2,99 @@
 title: "Two-point correlation function"
 date: 2025-06-05
 
-summary: The description of my research on two-point correlation function.
+summary: The Description of the Two-Point Correlation Function and My Research
 
 image:
-    caption: '[**Image credit**](https://arxiv.org/pdf/1907.11775)'
+    caption: '[**Image credit**](https://www.sdss4.org/science/)'
 
 authors:
   - admin
   - Ziwen Zhang
 
-tags:
-  - xxx
+tags: ["Two-Point Correlation", "Cosmic Structures", "Galaxy Distribution"， "Cosmology", "Astronomy"]
+
+---
+
+## 1. The Universe's Matter Distribution is Not Uniform: Introducing Overdensity
+
+The distribution of matter in the universe is not uniform. Instead, we observe structures on large scales such as galaxy filaments, clusters, and voids. These structures vary in scale from a few hundred thousand to billions of light years. To quantify this non-uniform distribution, the concept of **overdensity** is used. Overdensity measures the deviation of the density of matter in a specific region relative to the average density of the universe.
+
+For a galaxy sample, overdensity is defined as:
+
+\[
+\delta(\mathbf{r}) = \frac{n(\mathbf{r}) - \bar{n}}{\bar{n}}
+\]
+
+Where:
+
+- \(n(\mathbf{r})\) is the galaxy density at position \(\mathbf{r}\),
+- \(\bar{n}\) is the average galaxy density of the whole region.
+
+If \(\delta(\mathbf{r}) > 0\), the region is considered an "overdense" region with higher galaxy concentration; if \(\delta(\mathbf{r}) < 0\), the region is considered "underdense," with fewer galaxies.
+
+---
+
+## 2. The Redshift-Space Two-Point Correlation Function
+
+To describe the structure of galaxy distributions, the **two-point correlation function** (2PCF) was introduced. This statistical tool quantifies the spatial correlations between pairs of galaxies, specifically their separation distances, and helps us understand how galaxies are distributed in the universe.
+
+The classic definition of the two-point correlation function, introduced by **Davis and Peebles** in 1983, is:
+
+\[
+\xi(r) = \frac{GD(r)}{GR(r)} - 1
+\]
+
+Where:
+
+- \(GD(r)\) is the number of observed galaxy pairs at a separation distance \(r\),
+- represents the number of pairs between galaxies and random points at a separation distance \(r\).
+- \(\xi(r)\) is the 3D two-point correlation function, representing how galaxies are correlated over a given distance.
+
+---
+
+## 3. Projected Two-Point Correlation Function
+
+Due to the redshift distortion effects, the two-point correlation function in redshift space may not be accurate. Hence, the **projected two-point correlation function** is used. This is simply the integration of the two-point correlation function \(\xi(r_p, \pi)\) along the line of sight. This gives the projected two-point correlation function \(w_p(r_p)\), which is defined as:
+
+\[
+w_p(r_p) = 2 \int_0^\infty \xi(r_p, \pi) d\pi = 2 \sum_i \xi(r_p, \pi_i) \Delta \pi_i \tag{2}
+\]
+
+Where:
+
+- \(\pi_i\) is the separation parallel to the line of sight,
+- \(\Delta \pi_i\) is the corresponding bin size along the line of sight.
+
+This method helps to mitigate the redshift distortion effects and provides a more accurate galaxy clustering measurements.
+
+---
+
+## 4. Information in the Projected Two-Point Correlation Function at Small and Large Scales
+
+### 4.1 Information at Small Scales
+
+At **small scales**, the projected two-point correlation function primarily reflects the **local density** around galaxies and the **strength of interactions** between galaxies. Small scales correspond to distances within the halo virial radius (one-halo term). On these scales, galaxies could be influenced by the member galaxies in clusters or groups, leading to stronger interactions.
+
+### 4.2 Information at Large Scales
+
+At **large scales**, the projected two-point correlation function provides insight into the distribution of galaxies within **large-scale structures** such as galaxy filaments and clusters.
+
+- **Halo Bias**
+
+- **Halo Assembly Bias**: 
+
+- **Large-Scale Structure**: By calculating the projected two-point correlation function at large scales, we can uncover how galaxies organize into **large-scale structures**, such as filaments and voids. This helps us understand the formation and evolution of cosmic structures over time.
+
+---
+
+## Summary
+
+The **projected two-point correlation function** provides an essential tool for studying the spatial distribution of galaxies. By analyzing the projected 2PCF, we can obtain insights into:
+
+- **Small Scales**: Reflecting the local density and interaction strength between galaxies in dense environments like clusters.
+- **Large Scales**: Offering insights into **halo bias**, **halo assembly bias**, and the large-scale structure of the universe.
+
+This function is crucial in cosmology, as it allows researchers to study the universe's large-scale structure and galaxy clustering patterns, even with limited observational data.
 
 ---
 

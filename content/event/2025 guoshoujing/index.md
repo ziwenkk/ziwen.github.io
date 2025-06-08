@@ -58,3 +58,8 @@ slides: ""
 projects:
   - example
 ---
+
+<div style="display: flex; gap: 10px;">
+  <img src="./featured.jpg" alt="Photo 1" style="width: 48%;">
+  <img src="./pic1.jpg" alt="Photo 2" style="width: 48%;">
+</div>
