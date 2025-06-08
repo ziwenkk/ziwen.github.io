@@ -11,7 +11,7 @@ authors:
   - admin
   - Ziwen Zhang
 
-tags: ["Two-Point Correlation", "Cosmic Structures", "Galaxy Distribution"， "Cosmology", "Astronomy"]
+tags: ["Two-Point Correlation", "Cosmic Structures", "Galaxy Distribution", "Cosmology", "Astronomy"]
 
 ---
 
