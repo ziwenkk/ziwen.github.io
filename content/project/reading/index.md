@@ -188,6 +188,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic25.jpg" alt="Poor Charlie's Almanack" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack" target="_blank">
+      Poor Charlie's Almanack
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      It's an interesting book, but after finishing it, I didn't feel particularly enlightened. Maybe I need to read it a few more times.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic3.jpg" alt="Neapolitan Novels" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Neapolitan_Novels" target="_blank">
@@ -258,6 +272,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic23.jpg" alt="Diddly Squat Series by Jeremy Clarkson" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://www.goodreads.com/series/372660-diddly-squat" target="_blank">
+      Diddly Squat Series by Jeremy Clarkson
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      A fun series of books that's easy to read, but with a tendency to be overly clever. <br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic15.jpg" alt="文城" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%9F%8E_(%E5%B0%8F%E8%AF%B4)" target="_blank">
@@ -309,6 +337,20 @@ tags:
     <summary>👉 Show comment</summary>
       You loved me, but I didn’t love you back. I left you, yet I needed you, so I came back — and you forgave me. In the end, we are all free???<br>
       Score: 🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic24.jpg" alt="中国社会各阶层分析" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E5%B1%82%E5%88%86%E6%9E%90/3368240" target="_blank">
+      中国社会各阶层分析
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      当你看了标题，买了书，准备好读一本翔实的社会研究报告的时候，你会发现生活又欺骗了你。本书是文人的自我感动，书中的主要内容是作者朋友的访谈录，极度主观且几乎无任何科学调研数据。尽管如此，如果对某些阶层人士的心理活动感兴趣的朋友，前200页还是可以看看的。 <br>
+      Score: 🍔
     </details>
     </figcaption>
   </figure>
