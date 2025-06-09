@@ -44,30 +44,31 @@ Below is a list of the organized report links.
 8. [CCTV News](https://news.cctv.com/2025/05/22/ARTIhERZkzaNFfZbBU4lbZbW250522.shtml)
 9. [Science and Technology Daily (Digital)](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-05/22/content_588913.htm)
 10. [ScienceNet.cn Coverage](https://news.sciencenet.cn/htmlnews/2025/5/544370.shtm) 
+11. [China Science Daily](https://wap.sciencenet.cn/mobile.php?type=daily&mobile=1&mydatetime=2025-5-22)
 
 ## Government Portals and Local Officials
 
-11. [Anhui Provincial Government – Daily News](https://www.ah.gov.cn/zwyw/jryw/565427971.html) 
-12. [Anhui Provincial Department of Science and Technology](https://kjt.ah.gov.cn/kjzx/mtjj/122877591.html) 
-13. [Hefei Local News (WeHefei)](https://www.wehefei.com/news/2025/05/22/c_656117.htm) 
+12. [Anhui Provincial Government – Daily News](https://www.ah.gov.cn/zwyw/jryw/565427971.html) 
+13. [Anhui Provincial Department of Science and Technology](https://kjt.ah.gov.cn/kjzx/mtjj/122877591.html) 
+14. [Hefei Local News (WeHefei)](https://www.wehefei.com/news/2025/05/22/c_656117.htm) 
 
 ## Mainstream Media & Commercial Portals
 
-14. [The Paper (main site)](https://www.thepaper.cn/newsDetail_forward_30858906)
-15. [Sina Finance](https://finance.sina.cn/2025-05-22/detail-inexkrfp2130754.d.html) 
-16. [Global Times – Tech Channel](https://tech.huanqiu.com/article/4MmJKof8iDN) 
-17. [Sohu News](https://www.sohu.com/a/898030929_120252297) 
-18. [NetEase News](https://www.163.com/dy/article/K05133BV0514R9NK.html) 
-19. [Tencent News](https://news.qq.com/rain/a/20250529A091H700) 
+15. [The Paper (main site)](https://www.thepaper.cn/newsDetail_forward_30858906)
+16. [Sina Finance](https://finance.sina.cn/2025-05-22/detail-inexkrfp2130754.d.html) 
+17. [Global Times – Tech Channel](https://tech.huanqiu.com/article/4MmJKof8iDN) 
+18. [Sohu News](https://www.sohu.com/a/898030929_120252297) 
+19. [NetEase News](https://www.163.com/dy/article/K05133BV0514R9NK.html) 
+20. [Tencent News](https://news.qq.com/rain/a/20250529A091H700) 
 
 ## Additional Coverage
 
-20. [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4) 
-21. [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)
-22. [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) 
-23. [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) 
-24. [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/)
-25. [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) 
-26. [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) 
+21. [Nature Research Briefing](https://www.nature.com/articles/d41586-025-01699-4) 
+22. [CAS News – Dwarf Galaxy Research](https://english.cas.cn/newsroom/research_news/phys/202505/t20250521_1044189.shtml)
+23. [Phys.org – Dwarf Galaxy Clustering](https://phys.org/news/2025-05-dwarf-galaxy-clustering-standard-cold.html) 
+24. [EurekAlert – Dwarf Galaxies Study](https://www.eurekalert.org/news-releases/1084875) 
+25. [Mirage News – Dwarf Galaxy Clustering Challenges Dark Matter](https://www.miragenews.com/dwarf-galaxy-clustering-challenges-dark-matter-1464780/)
+26. [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) 
+27. [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) 
 
 
