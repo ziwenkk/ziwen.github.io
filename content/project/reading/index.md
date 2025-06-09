@@ -160,6 +160,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic30.jpg" alt="Stray Birds" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://www.goodreads.com/book/show/166350.Stray_Birds" target="_blank">
+      Stray Birds
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      While reading this book, you can feel the unique exotic atmosphere, the humid air, vibrant colors, a mysterious ambiance, the swaying banana trees, the chirping of insects and birds, and the starry moonlit night.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic9.png" alt="南货店" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://baike.baidu.com/item/%E5%8D%97%E8%B4%A7%E5%BA%97/51855882" target="_blank">
@@ -336,6 +350,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       我觉得一般，和《一句顶一万句》有点像。<br>
+      Score: 🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic29.jpg" alt="Steve Jobs (book)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Steve_Jobs_(book)" target="_blank">
+      Steve Jobs (book)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      If you like Steve Jobs and are interested in his life, then go ahead and read it.<br>
       Score: 🍔🍔
     </details>
     </figcaption>
