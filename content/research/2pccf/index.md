@@ -21,9 +21,11 @@ The distribution of matter in the universe is not uniform. Instead, we observe s
 
 For a galaxy sample, overdensity is defined as:
 
-\[
+{{< math >}}
+$$
 \delta(\mathbf{r}) = \frac{n(\mathbf{r}) - \bar{n}}{\bar{n}}
-\]
+$$
+{{< /math >}}
 
 Where:
 
@@ -40,9 +42,11 @@ To describe the structure of galaxy distributions, the **two-point correlation f
 
 The classic definition of the two-point correlation function, introduced by **Davis and Peebles** in 1983, is:
 
-\[
+{{< math >}}
+$$
 \xi(r) = \frac{GD(r)}{GR(r)} - 1
-\]
+$$
+{{< /math >}}
 
 Where:
 
@@ -98,3 +102,5 @@ This function is crucial in cosmology, as it allows researchers to study the uni
 
 ---
 
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
