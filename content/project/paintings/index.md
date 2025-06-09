@@ -48,3 +48,6 @@ I am an amateur painter without formal training, gotta keep learning and trying 
     <figcaption style="text-align: center;">Some Flowers</figcaption>
   </figure>
 </div>
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>

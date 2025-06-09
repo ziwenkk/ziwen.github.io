@@ -53,3 +53,5 @@ I enjoy hiking and exploring remote, untouched places — far from the crowds, w
   </figure>
 </div>
 
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>

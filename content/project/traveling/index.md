@@ -44,3 +44,6 @@ I love traveling and exploring new places, savoring each places with intention a
     <figcaption style="text-align: center;">Paris, France, 2023-05-07</figcaption>
   </figure>
 </div>
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
