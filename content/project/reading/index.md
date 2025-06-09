@@ -146,6 +146,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic28.png" alt="棋王树王孩子王" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://baike.baidu.com/item/%E6%A3%8B%E7%8E%8B%E6%A0%91%E7%8E%8B%E5%AD%A9%E5%AD%90%E7%8E%8B/12290818" target="_blank">
+      棋王树王孩子王
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      阿城的文字是无可挑剔的，对人物的描写也是细腻深刻的，值得细读！<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic9.png" alt="南货店" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://baike.baidu.com/item/%E5%8D%97%E8%B4%A7%E5%BA%97/51855882" target="_blank">
@@ -196,6 +210,34 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       It's an interesting book, but after finishing it, I didn't feel particularly enlightened. Maybe I need to read it a few more times.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic26.jpg" alt="The Grapes of Wrath" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Grapes_of_Wrath" target="_blank">
+      The Grapes of Wrath
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      This book has deeply made me realize that there is no essential difference between people and between nations. No one is born noble; even nations that once stood at the peak of capitalism have crawled through the mud. Human nature is universal. We all long for love, desire a stable life, and possess similar dark sides as well as great shining qualities. The literary depiction of human nature's brilliance in this book is fully realized in the final scene, leaving me with a profound sense of unease that lingers in my heart. <br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic27.jpg" alt="Silent Spring" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Silent_Spring" target="_blank">
+      Silent Spring
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      It’s shocking, yet it seems that human society is still stumbling forward. Perhaps everything we do is based on a fundamental assumption: that nature will always find its own way to survive. Or perhaps, we simply don’t care. We revel through the night, until total destruction. <br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
