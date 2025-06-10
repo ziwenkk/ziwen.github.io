@@ -71,4 +71,7 @@ Below is a list of the organized report links.
 26. [Scienmag – Dwarf Galaxies Surprising Clustering Defies Models](https://scienmag.com/dwarf-galaxies-surprising-clustering-defies-models/) 
 27. [Bioengineer.org – Dwarf Galaxies Surprising Clustering Defies Models](https://bioengineer.org/dwarf-galaxies-surprising-clustering-defies-models/) 
 
+---
 
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>

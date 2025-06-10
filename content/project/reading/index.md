@@ -342,6 +342,34 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic32.jpg" alt="Norwegian Wood (novel)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Norwegian_Wood_(novel)" target="_blank">
+      Norwegian Wood (novel)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      Sad and profound. <br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic31.png" alt="Educated (memoir)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Educated_(memoir)" target="_blank">
+      Educated (memoir)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      As long as you keep hope and never give up, you will eventually receive the gifts of fate. <br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic15.jpg" alt="文城" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%9F%8E_(%E5%B0%8F%E8%AF%B4)" target="_blank">
@@ -455,7 +483,7 @@ tags:
 
 </div>
 
-<br>
+---
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
