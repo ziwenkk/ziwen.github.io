@@ -17,9 +17,7 @@ tags: ["Two-Point Correlation", "Cosmic Structures", "Galaxy Distribution", "Cos
 
 ## 1. The Universe's Matter Distribution is Not Uniform: Introducing Overdensity
 
-The distribution of matter in the universe is not uniform. Instead, we observe structures on large scales such as galaxy filaments, clusters, and voids. These structures vary in scale from a few hundred thousand to billions of light years. To quantify this non-uniform distribution, the concept of **overdensity** is used. Overdensity measures the deviation of the density of matter in a specific region relative to the average density of the universe.
-
-For a galaxy sample, overdensity is defined as:
+The distribution of matter in the Universe is not uniform. Instead, we observe structures on large scales such as galaxy filaments, clusters, and voids. These structures vary in scale from a few hundred thousand to billions of light years. To quantify this non-uniform distribution, the concept of **overdensity** is used. Overdensity measures the deviation of the density of matter in a specific region relative to the average density of the Universe, defined as:
 
 {{< math >}}
 $$
@@ -29,16 +27,16 @@ $$
 
 Where:
 
-- \(n(\mathbf{r})\) is the galaxy density at position \(\mathbf{r}\),
-- \(\bar{n}\) is the average galaxy density of the whole region.
+- \(n(\mathbf{r})\) is the density at position \(\mathbf{r}\),
+- \(\bar{n}\) is the average density of the Universe.
 
-If \(\delta(\mathbf{r}) > 0\), the region is considered an "overdense" region with higher galaxy concentration; if \(\delta(\mathbf{r}) < 0\), the region is considered "underdense," with fewer galaxies.
+If \(\delta(\mathbf{r}) > 0\), the region is considered an "overdense" region; otherwise, it is considered "underdense."
 
 ---
 
 ## 2. The Redshift-Space Two-Point Correlation Function
 
-To describe the structure of galaxy distributions, the **two-point correlation function** (2PCF) was introduced. This statistical tool quantifies the spatial correlations between pairs of galaxies, specifically their separation distances, and helps us understand how galaxies are distributed in the universe.
+To describe the structure of galaxy distributions, the **two-point correlation function** (2PCF) was introduced. This statistical tool quantifies the spatial correlations between pairs of galaxies, specifically their separation distances, and helps us understand how galaxies are distributed in the Universe.
 
 The classic definition of the two-point correlation function, introduced by **Davis and Peebles** in 1983, is:
 
@@ -51,8 +49,8 @@ $$
 Where:
 
 - \(GD(r)\) is the number of observed galaxy pairs at a separation distance \(r\),
-- represents the number of pairs between galaxies and random points at a separation distance \(r\).
-- \(\xi(r)\) is the 3D two-point correlation function, representing how galaxies are correlated over a given distance.
+- \(GR(r)\) represents the number of pairs between galaxies and random points at a separation distance \(r\).
+- \(\xi(r)\) is the redshift-space two-point correlation function.
 
 ---
 
@@ -61,13 +59,12 @@ Where:
 Due to the redshift distortion effects, the two-point correlation function in redshift space may not be accurate. Hence, the **projected two-point correlation function** is used. This is simply the integration of the two-point correlation function \(\xi(r_p, \pi)\) along the line of sight. This gives the projected two-point correlation function \(w_p(r_p)\), which is defined as:
 
 \[
-w_p(r_p) = 2 \int_0^\infty \xi(r_p, \pi) d\pi = 2 \sum_i \xi(r_p, \pi_i) \Delta \pi_i \tag{2}
+w_p(r_p) = \int_-\infty^\infty \xi(r_p, \pi) d\pi
 \]
 
 Where:
 
-- \(\pi_i\) is the separation parallel to the line of sight,
-- \(\Delta \pi_i\) is the corresponding bin size along the line of sight.
+- \(\pi\) is the separation parallel to the line of sight,
 
 This method helps to mitigate the redshift distortion effects and provides a more accurate galaxy clustering measurements.
 
