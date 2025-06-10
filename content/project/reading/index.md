@@ -118,6 +118,24 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic33.jpg" alt="The Catcher in the Rye" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye" target="_blank">
+      The Catcher in the Rye
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      This is a monologue of a boy who refuses to be disciplined, resisting the adult world.
+      First time reading it, I really hated this book;
+      Second time reading it, I really hated this book;
+      Third time reading it, I was greatly shaken.
+      If you ask me why I read it three times, Because I feel like it.<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic13.jpg" alt="一句顶一万句" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://zh.wikipedia.org/wiki/%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5" target="_blank">
