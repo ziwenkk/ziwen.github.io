@@ -20,6 +20,3 @@ tags:
 Since December 1st, 2024, I joined the Department of Astronomy at USTC as a postdoctoral researcher. I will be conducting research on the formation and evolution of dwarf and BCG galaxies, as well as the galaxy–halo connection.
 
 ---
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

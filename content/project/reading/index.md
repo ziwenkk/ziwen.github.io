@@ -90,6 +90,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic35.jpg" alt="Sapiens: A Brief History of Humankind" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind" target="_blank">
+      Sapiens: A Brief History of Humankind
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      What shocked and inspired me most in this book was a particular idea — and as I recount it now, I am already demonstrating its truth. The greatest difference between humans and animals, and also the source of our greatest strength, lies in our ability to create stories, understand stories, and believe in stories!!!<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic14.jpg" alt="五味" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://www.goodreads.com/book/show/19044873" target="_blank">
@@ -214,6 +228,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       An interesting book that takes you through the evolutionary history of philosophy — a great introduction to philosophy.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic34.jpg" alt="All Creatures Great and Small (franchise)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/All_Creatures_Great_and_Small_(franchise)" target="_blank">
+      All Creatures Great and Small (franchise)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      These stories will make you realize the beauty of life. <br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
@@ -505,3 +533,5 @@ tags:
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
+
+---

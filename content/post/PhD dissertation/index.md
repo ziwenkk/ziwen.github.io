@@ -20,6 +20,3 @@ Welcome to my PhD thesis defense 👋. I have successfully defended my PhD disse
 This milestone would not have been possible without the unwavering guidance and support of my advisors, whose mentorship have been instrumental throughout my academic journey. I am also deeply thankful to my friends and peers for their constant encouragement and companionship over the years. Thank you all for being part of my journey.
 
 ---
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
