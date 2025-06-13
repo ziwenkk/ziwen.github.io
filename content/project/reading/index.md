@@ -104,6 +104,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic38.jpg" alt="世间我所中意的美好" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://book.douban.com/subject/25712493/" target="_blank">
+      世间我所中意的美好
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      我最钟爱的诗集，[**William Butler Yeats**](https://en.wikipedia.org/wiki/W._B._Yeats)写下了我所中意的美好💜.<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic14.jpg" alt="五味" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://www.goodreads.com/book/show/19044873" target="_blank">
@@ -340,6 +354,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       I find it so hard to understand women — they're so deep and complex.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic39.jpg" alt="84, Charing Cross Road" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/84,_Charing_Cross_Road" target="_blank">
+      84, Charing Cross Road
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      A story of friendship across time and space between a person who loves reading and someone who cherishes that love. <br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
