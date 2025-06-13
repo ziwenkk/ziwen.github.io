@@ -111,7 +111,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      我最钟爱的诗集，[**William Butler Yeats**](https://en.wikipedia.org/wiki/W._B._Yeats)写下了我所中意的美好💜.<br>
+      我最钟爱的诗集，William Butler Yeats 写下了我所中意的美好💜.<br>
       Score: 🍔🍔🍔🍔
     </details>
     </figcaption>
