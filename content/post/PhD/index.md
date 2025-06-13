@@ -6,6 +6,9 @@ authors:
   - admin
   - Ziwen Zhang
 
+image:
+  filename: featured.jpg
+
 tags:
   - PhD Ceremony
 ---
