@@ -8,10 +8,12 @@ authors:
 
 image:
   filename: featured.jpg
+  caption: 'Image credit: [**USTC Photography Team**]'
 
 tags:
   - PhD Ceremony
 ---
+<!--more-->
 
 Half a year after graduation, I finally had my graduation ceremony 🥳🍻. Here are some of the unforgettable moments I shared with my friends.
 
