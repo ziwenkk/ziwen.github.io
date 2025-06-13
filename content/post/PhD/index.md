@@ -13,9 +13,10 @@ image:
 tags:
   - PhD Ceremony
 ---
-<!--more-->
 
 Half a year after graduation, I finally had my graduation ceremony 🥳🍻. Here are some of the unforgettable moments I shared with my friends.
+
+<!--more-->
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./fpic0.jpg" alt="Photo 00" style="width: 32%;">
