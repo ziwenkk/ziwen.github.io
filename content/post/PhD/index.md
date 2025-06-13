@@ -26,5 +26,3 @@ Half a year after graduation, I finally had my graduation ceremony 🥳🍻. Her
   <img src="./pic7.jpg" alt="Photo 6" style="width: 32%;">
   <img src="./pic8.jpg" alt="Photo 7" style="width: 32%;">
 </div>
-
----
