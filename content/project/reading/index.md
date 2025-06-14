@@ -591,7 +591,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      The protagonist in the story is both morbid and self-abasing — what might this reveal about the author? Yet the prose remains beautiful.<br>
+      The protagonist in the story is both morbid and self-abasing. Yet the prose remains beautiful.<br>
       Score: 🥦
     </details>
     </figcaption>
