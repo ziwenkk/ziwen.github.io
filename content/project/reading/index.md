@@ -206,20 +206,6 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic28.png" alt="棋王树王孩子王" style="width: 100%;">
-    <figcaption style="text-align: center;">
-    <a href="https://baike.baidu.com/item/%E6%A3%8B%E7%8E%8B%E6%A0%91%E7%8E%8B%E5%AD%A9%E5%AD%90%E7%8E%8B/12290818" target="_blank">
-      棋王树王孩子王
-    </a>
-    <details style="margin-top: 0.5em;">
-    <summary>👉 Show comment</summary>
-      阿城的文字是无可挑剔的，对人物的描写也是细腻深刻的，值得细读！<br>
-      Score: 🍔🍔🍔
-    </details>
-    </figcaption>
-  </figure>
-
-  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic37.jpg" alt="Leaves of Grass" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Leaves_of_Grass" target="_blank">
@@ -248,6 +234,34 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic41.jpg" alt="The Lover (Duras novel)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Lover_(Duras_novel)" target="_blank">
+      The Lover (Duras novel)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      I can't tell whether this is true love or a twisted emotion disguised as true love.<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic28.png" alt="棋王树王孩子王" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://baike.baidu.com/item/%E6%A3%8B%E7%8E%8B%E6%A0%91%E7%8E%8B%E5%AD%A9%E5%AD%90%E7%8E%8B/12290818" target="_blank">
+      棋王树王孩子王
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      阿城的文字是无可挑剔的，对人物的描写也是细腻深刻的，值得细读！<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic9.png" alt="南货店" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://baike.baidu.com/item/%E5%8D%97%E8%B4%A7%E5%BA%97/51855882" target="_blank">
@@ -256,6 +270,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       我喜欢这个温情而略带残酷的故事。一个人一辈子要经历多少磨难？而这些故事在人故去之后是否还会有回响？<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic40.jpg" alt="The Fault in Our Stars" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars" target="_blank">
+      The Fault in Our Stars
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      I was fortunate to read this book in the days of my youth. Thus, while I still possessed my youth, I also came to possess a sense of what youth feels like.<br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
