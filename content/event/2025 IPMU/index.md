@@ -1,5 +1,5 @@
 ---
-title: APEC Seminar-IPMU
+title: APEC Seminar – IPMU
 
 event: APEC Seminar
 event_url: 

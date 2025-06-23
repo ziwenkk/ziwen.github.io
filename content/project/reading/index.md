@@ -486,6 +486,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic42.jpg" alt="Lust for Life (novel)" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Lust_for_Life_(novel)" target="_blank">
+      Lust for Life (novel)
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      This is the story of a madman, filled with passion and yearning for love, who rises from frustration and suppression to become a shining star among humanity. <br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic31.png" alt="Educated (memoir)" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Educated_(memoir)" target="_blank">
@@ -550,6 +564,20 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       It should be a very interesting book, but I just can't get into it. Am I too old for this?<br>
+      Score: 🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic43.jpg" alt="The Sun Also Rises" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/The_Sun_Also_Rises" target="_blank">
+      The Sun Also Rises
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      I don't understand why this book is considered good — it just seems like someone hanging out with a group of people, eating, drinking, and having fun without a care in the world.<br>
       Score: 🍔🍔
     </details>
     </figcaption>
