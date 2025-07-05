@@ -20,8 +20,8 @@ date: '2025-04-14'
 publishDate: '2025-04-14'
 publication_types:
 - article-journal
-publication: '*arXiv e-prints*'
-doi: 10.48550/arXiv.2412.01790
+publication: "*A&A*"
+doi: https://doi.org/10.1051/0004-6361/202453442
 tags:
 - Astrophysics - Cosmology and Nongalactic Astrophysics
 links:
