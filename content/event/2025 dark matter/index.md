@@ -1,5 +1,5 @@
 ---
-title: Dark Matter and Galaxies
+title: Dark Matter and Galaxies Symposium
 
 event: Dark Matter and Galaxies Symposium
 event_url: 
