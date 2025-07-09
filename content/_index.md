@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |
-        I am a postdoctoral researcher at USTC. I am broadly interested in **galaxy formation and evolution**, and in using **weak gravitational lensing** to study the connection between galaxies and dark matter. My research experience includes analyzing SDSS DR7 data to investigate how different types of central galaxies relate to their host dark matter halos in the local universe. I have studied AGN triggering mechanisms and AGN–galaxy coevolution scenarios. I have also worked with UNIONS survey data to characterize PSF-related systematic effects in weak lensing measurements. More recently, I have investigated formation models of dwarf galaxies and their dark matter halos.
+        I am a postdoctoral researcher at USTC. My research experience includes analyzing **SDSS DR7** data to investigate how different types of central galaxies relate to their host dark matter halos in the local universe. I have studied AGN triggering mechanisms and AGN–galaxy coevolution scenarios. I have also worked with **UNIONS** data to characterize PSF-related systematic effects in weak lensing measurements. More recently, I have investigated formation models of dwarf galaxies and their dark matter halos.
         
-        I am currently extending my research to **higher redshifts using data from DESI and JWST** to study early galaxy formation and evolution. In addition, together with my collaborators, I am planning observations to investigate the dark matter halo structures in which dwarf galaxies reside, with the goal of improving our understanding of small-scale structure formation and constraining the scattering cross-section of self-interacting dark matter (SIDM).
+        I am currently extending my research to higher redshifts using data from **DESI and JWST** to study early galaxy formation and evolution. In addition, together with my collaborators, I am planning **observations** to investigate the dark matter halo structures in which dwarf galaxies reside, with the goal of improving our understanding of small-scale structure formation and constraining the cross-section of self-interacting dark matter (SIDM).
 
         Always happy to connect and collaborate on exciting science 🔭🪐🌌
       filters:
