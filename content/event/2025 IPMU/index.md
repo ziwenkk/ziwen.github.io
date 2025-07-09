@@ -12,7 +12,7 @@ address:
   postcode: Chiba 277-8583, Japan
   country: 
 
-abstract: 'In this talk, I presented the main ideas of my paper: Unexpected clustering pattern in dwarf galaxies challenges formation models.'
+abstract: 'In this talk, I presented the main ideas of my paper: [**Unexpected clustering pattern in dwarf galaxies challenges formation models**](https://www.nature.com/articles/s41586-025-08965-5).'
 
 date: '2025-06-19T13:30:00Z'
 date_end: '2025-06-19T15:00:00Z'
