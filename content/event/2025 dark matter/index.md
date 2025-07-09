@@ -1,12 +1,12 @@
 ---
-title: Distribution of Dark Matter in the Universe and Galaxies
+title: Dark Matter and Galaxies
 
-event: Distribution of Dark Matter in the Universe and Galaxies Symposium
+event: Dark Matter and Galaxies Symposium
 event_url: 
 
-location: Huangshan Baijing International Grand Hotel
+location: Huangshan Parkview International Hotel
 address:
-  street: No. 18-2, Wan'anmen Nei, Xihai Road
+  street: No. 18-2, Xihai Road
   city: Tunxi
   region: Liyang Town
   postcode: Anhui Province, China
