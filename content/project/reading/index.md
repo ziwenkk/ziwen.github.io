@@ -33,20 +33,6 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic5.png" alt="毛泽东选集" style="width: 100%;">
-    <figcaption style="text-align: center;">
-    <a href="https://en.wikipedia.org/wiki/Selected_Works_of_Mao_Tse-Tung" target="_blank">
-      毛泽东选集
-    </a>
-    <details style="margin-top: 0.5em;">
-    <summary>👉 Show comment</summary>
-      这些书籍充满了智慧和策略——是年轻人成长过程中必读的书籍。你可以从中汲取力量和自信。青年人是冉冉升起的太阳，是世界的希望！<br>
-      Score: 🍔🍔🍔🍔🍔
-    </details>
-    </figcaption>
-  </figure>
-
-  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic6.jpg" alt="三国演义" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms" target="_blank">
@@ -402,34 +388,6 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic12.jpg" alt="Las Venas Abiertas de América Latina" style="width: 100%;">
-    <figcaption style="text-align: center;">
-    <a href="https://es.wikipedia.org/wiki/Las_venas_abiertas_de_Am%C3%A9rica_Latina" target="_blank">
-      Las Venas Abiertas de América Latina
-    </a>
-    <details style="margin-top: 0.5em;">
-    <summary>👉 Show comment</summary>
-      When the fate of a nation is not in the hands of its people, it inevitably means the tragedy of life. <br>
-      Score: 🍔🍔🍔
-    </details>
-    </figcaption>
-  </figure>
-
-  <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic8.jpg" alt="Invisible Child: Poverty, Survival & Hope in an American City" style="width: 100%;">
-    <figcaption style="text-align: center;">
-    <a href="https://en.wikipedia.org/wiki/Invisible_Child:_Poverty,_Survival_%26_Hope_in_an_American_City" target="_blank">
-      Invisible Child: Poverty, Survival & Hope in an American City
-    </a>
-    <details style="margin-top: 0.5em;">
-    <summary>👉 Show comment</summary>
-      The structural poverty makes individuals feel powerless and insignificant in the waves of social change.<br>
-      Score: 🍔🍔🍔
-    </details>
-    </figcaption>
-  </figure>
-
-  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic20.jpg" alt="明朝那些事儿" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://zh.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%85%92" target="_blank">
@@ -536,20 +494,6 @@ tags:
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
       If you like Steve Jobs and are interested in his life, then go ahead and read it.<br>
-      Score: 🍔🍔
-    </details>
-    </figcaption>
-  </figure>
-
-  <figure style="width: 32%; margin-bottom: 1%;">
-    <img src="./pic18.jpg" alt="Moscow, December 25th, 1991: The Last Day of the Soviet Union" style="width: 100%;">
-    <figcaption style="text-align: center;">
-    <a href="https://www.amazon.com/Moscow-December-25th-1991-Soviet/dp/1848271131" target="_blank">
-      Moscow, December 25th, 1991: The Last Day of the Soviet Union
-    </a>
-    <details style="margin-top: 0.5em;">
-    <summary>👉 Show comment</summary>
-      This book lists many interesting events and serves as a decent diary. However, it's merely a collection of events without much depth.<br>
       Score: 🍔🍔
     </details>
     </figcaption>
