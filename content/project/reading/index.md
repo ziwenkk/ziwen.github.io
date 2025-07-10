@@ -353,7 +353,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      This book has deeply made me realize that there is no essential difference between people and between nations. No one is born noble; even nations that once stood at the peak of capitalism have crawled through the mud. Human nature is universal. We all long for love, desire a stable life, and possess similar dark sides as well as great shining qualities. The literary depiction of human nature's brilliance in this book is fully realized in the final scene, leaving me with a profound sense of unease that lingers in my heart. <br>
+      This book has deeply made me realize that there is no essential difference between people and between nations. Human nature is universal. We all long for love, desire a stable life, and possess similar dark sides as well as great shining qualities. The literary depiction of human nature's brilliance in this book is fully realized in the final scene, leaving me with a profound sense of unease that lingers in my heart. <br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
@@ -409,7 +409,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      When the fate of a nation is not in the hands of its people, it inevitably means the tragedy of life. Hang in there, friends of Latin America.<br>
+      When the fate of a nation is not in the hands of its people, it inevitably means the tragedy of life. <br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
@@ -423,7 +423,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      The structural poverty caused by capitalist society makes individuals feel powerless and insignificant in the waves of social change.<br>
+      The structural poverty makes individuals feel powerless and insignificant in the waves of social change.<br>
       Score: 🍔🍔🍔
     </details>
     </figcaption>
@@ -549,7 +549,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      This book lists many interesting events and serves as a decent diary. However, the writing style is poor, as it's merely a collection of events without much depth.<br>
+      This book lists many interesting events and serves as a decent diary. However, it's merely a collection of events without much depth.<br>
       Score: 🍔🍔
     </details>
     </figcaption>
@@ -577,7 +577,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      I don't understand why this book is considered good — it just seems like someone hanging out with a group of people, eating, drinking, and having fun without a care in the world.<br>
+      To me, this book just describes someone hanging out with a group of people, eating, drinking, and having fun without a care in the world.<br>
       Score: 🍔🍔
     </details>
     </figcaption>
@@ -633,7 +633,7 @@ tags:
     </a>
     <details style="margin-top: 0.5em;">
     <summary>👉 Show comment</summary>
-      都说这些书写得好，真的好吗？不过是掉书袋的装x之作。几句话就能讲清楚，非得写成一套书。害老子读半天...<br>
+      几句话就能讲清楚，非得写成一套书。害老子读半天...<br>
       Score: 🥦🥦🥦
     </details>
     </figcaption>
