@@ -27,7 +27,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Jingjing Shi**]'
+  caption: 'Image credit: [**Jingjing Shi**](https://db.ipmu.jp/seminar/?seminar_id=3398)'
   focal_point: Right
 
 projects:
