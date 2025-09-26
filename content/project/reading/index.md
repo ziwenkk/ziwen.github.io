@@ -220,6 +220,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic44.jpg" alt="鱼翅与花椒" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://www.goodreads.com/book/show/44536316" target="_blank">
+      鱼翅与花椒
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      是2025读到的前三好的书，本书充满人文关怀和人间烟火。让我惊奇的是，作者愿意放下偏见去尝试我都充满偏见的食物，足以表现本书的包容性。建议读一读，不是为了诗与远方，而是佳肴美馔。哎，又想去成都吃面了。<br>
+      Score: 🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic41.jpg" alt="The Lover (Duras novel)" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://en.wikipedia.org/wiki/The_Lover_(Duras_novel)" target="_blank">
