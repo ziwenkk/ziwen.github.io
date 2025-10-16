@@ -20,6 +20,10 @@ I enjoy hiking and exploring remote, untouched places — far from the crowds, w
 
 <div style="display: flex; gap: 1%; flex-wrap: wrap;">
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic8.jpg" alt="Mount Lu, 2025-10-05" style="width: 100%;">
+    <figcaption style="text-align: center;">Mount Lu, 2025-10-05</figcaption>
+  </figure>
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic3.jpg" alt="Western Anhui Grand Canyon, 2025-05-18" style="width: 100%;">
     <figcaption style="text-align: center;">Western Anhui Grand Canyon, 2025-05-18</figcaption>
   </figure>
