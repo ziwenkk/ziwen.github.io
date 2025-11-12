@@ -90,6 +90,20 @@ tags:
   </figure>
 
   <figure style="width: 32%; margin-bottom: 1%;">
+    <img src="./pic45.jpg" alt="Guns, Germs, and Steel" style="width: 100%;">
+    <figcaption style="text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel" target="_blank">
+      Guns, Germs, and Steel
+    </a>
+    <details style="margin-top: 0.5em;">
+    <summary>👉 Show comment</summary>
+      The book sees through the nature of the evolution of civilization.<br>
+      Score: 🍔🍔🍔🍔
+    </details>
+    </figcaption>
+  </figure>
+
+  <figure style="width: 32%; margin-bottom: 1%;">
     <img src="./pic38.jpg" alt="世间我所中意的美好" style="width: 100%;">
     <figcaption style="text-align: center;">
     <a href="https://book.douban.com/subject/25712493/" target="_blank">
