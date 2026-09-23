@@ -146,25 +146,25 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences
-    url: ''
+    url: 'https://gradschool.ustc.edu.cn/article/3494'
     date: '2026-07-03'
     awarder: Chinese Academy of Sciences
     icon: ''
     summary: ''
   - title: Mozi Outstanding Young Scholar Special Grant
-    url: ''
+    url: 'https://hr.ustc.edu.cn/cn/personnel/uploadfile/P0327/639051315451631006.pdf'
     date: '2026-01-27'
     awarder: University of Science and Technology of China
     icon: ''
     summary: ''
   - title: Xiaomi Scholar
-    url: ''
+    url: 'https://cdn.cnbj1.fds.api.mi-img.com/charity-static-file/res/document/20260212/e2cc6d17a5e0475cbac21a698095d5dc.pdf'
     date: '2026-01-13'
     awarder: Xiaomi Corporation
     icon: ''
     summary: ''
   - title: Outstanding Research President's Award
-    url: ''
+    url: 'https://www.10100.com/article/101734476'
     date: '2026-01-12'
     awarder: University of Science and Technology of China
     icon: ''
