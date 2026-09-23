@@ -145,6 +145,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences
+    url: ''
+    date: '2026'
+    awarder: Chinese Academy of Sciences
+    icon: ''
+    summary: ''
+  - title: Mozi Outstanding Young Scholar Special Grant
+    url: ''
+    date: '2026'
+    awarder: University of Science and Technology of China
+    icon: ''
+    summary: ''
+  - title: Xiaomi Scholar
+    url: ''
+    date: '2026-01-13'
+    awarder: Xiaomi Corporation
+    icon: ''
+    summary: ''
+  - title: Outstanding Research President's Award
+    url: ''
+    date: '2026-01-12'
+    awarder: University of Science and Technology of China
+    icon: ''
+    summary: ''
   - title: CAS Presidential Scholarship
     url: https://www.cas.cn/
     date: '2024-07-26'
