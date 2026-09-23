@@ -144,11 +144,11 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-research funding
+research funding:
   - title: Anhui Postdoctoral Scientific Research Program Foundation
     url: 'https://hrss.ah.gov.cn/zxzx/gsgg/80790500.html'
     date: '2026-06-24'
-    awarder: Anhui
+    awarder: Anhui Human Resources and Social Security
     icon: ''
     summary: ''
   - title: China Postdoctoral Science Foundation-Anhui Joint Support Program
