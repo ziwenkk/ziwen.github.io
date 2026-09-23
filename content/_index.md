@@ -37,13 +37,11 @@ sections:
       text: |
         I am a postdoctoral researcher at USTC. I combine large-scale surveys, deep imaging observations, and numerical simulations to study the galaxy formation and evolution from the local universe to the cosmic noon.
 
-        My recent work uses [**JWST/COSMOS-Web**](https://cosmos2025.iap.fr/catalog.html) observations to investigate how galaxy structure, star formation, and large-scale environments are connected at \(1<z<3\), including studies of galaxy clustering and the identification of ring galaxies in deep JWST imaging surveys. I also study the formation and evolution of dwarf galaxies and their dark matter halos, with broader interests in small-scale structure formation and dark matter physics (Zhang et al. [2025](https://www.nature.com/articles/s41586-025-08965-5)). 
+        My recent work uses [**JWST/COSMOS-Web**](https://cosmos2025.iap.fr/catalog.html) observations to investigate how galaxy structure, star formation, and large-scale environments are connected at 1<z<3, including studies of galaxy clustering and the identification of ring galaxies in deep JWST imaging surveys. I also study the formation and evolution of dwarf galaxies and their dark matter halos, with broader interests in small-scale structure formation and dark matter physics (Zhang et al. [2025](https://www.nature.com/articles/s41586-025-08965-5)). 
         
-        My previous research has explored galaxy evolution using SDSS, weak gravitational lensing using with [**UNIONS**], and galaxy kinematics, including AGN triggering, AGN–galaxy coevolution, and galaxy–halo connections (Zhang et al. [2021](https://www.aanda.org/articles/aa/full_html/2021/06/aa40150-20/aa40150-20.html), [2022](https://www.aanda.org/articles/aa/full_html/2022/07/aa42866-21/aa42866-21.html), [2023](https://iopscience.iop.org/article/10.3847/1538-4357/ad0892), Zhang et al. [2024](https://www.aanda.org/articles/aa/full_html/2024/11/aa50623-24/aa50623-24.html)).
+        My previous research has explored galaxy evolution using data from SDSS, DECaLS, and UNIONS, combined with techniques including weak gravitational lensing, galaxy clustering and satellite kinematics, to investigate AGN triggering, AGN–galaxy coevolution, and galaxy–halo connections. (Zhang et al. [2021](https://www.aanda.org/articles/aa/full_html/2021/06/aa40150-20/aa40150-20.html), [2022](https://www.aanda.org/articles/aa/full_html/2022/07/aa42866-21/aa42866-21.html), [2023](https://iopscience.iop.org/article/10.3847/1538-4357/ad0892), [2024](https://www.aanda.org/articles/aa/full_html/2024/11/aa50623-24/aa50623-24.html)).
 
         Future work will further explore the formation and evolution of ring galaxies and the connection between dwarf galaxies and dark matter halos, using galaxy rotation curves to constrain halo density profiles and probe small-scale structure formation.
-
-        Always happy to connect and collaborate on exciting science 🔭🪐🌌
       filters:
         folders:
           - research
