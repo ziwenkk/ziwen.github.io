@@ -144,14 +144,28 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+research funding
+  - title: Anhui Postdoctoral Scientific Research Program Foundation
+    url: 'https://hrss.ah.gov.cn/zxzx/gsgg/80790500.html'
+    date: '2026-06-24'
+    awarder: Anhui
+    icon: ''
+    summary: ''
+  - title: China Postdoctoral Science Foundation-Anhui Joint Support Program
+    url: 'https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20250801/73ec6257-52c3-4477-929a-8f95b70e9c8c.pdf'
+    date: '2025-08-01'
+    awarder: China Postdoctoral Science Foundation-Anhui
+    icon: ''
+    summary: ''
+
+awards & honors:
   - title: Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences
     url: 'https://gradschool.ustc.edu.cn/article/3494'
     date: '2026-07-03'
     awarder: Chinese Academy of Sciences
     icon: ''
     summary: ''
-  - title: Mozi Outstanding Young Scholar Special Grant
+  - title: Mozi Outstanding Young Scholar First-Class Award
     url: 'https://hr.ustc.edu.cn/cn/personnel/uploadfile/P0327/639051315451631006.pdf'
     date: '2026-01-27'
     awarder: University of Science and Technology of China
