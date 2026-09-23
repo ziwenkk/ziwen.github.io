@@ -147,13 +147,13 @@ languages:
 awards:
   - title: Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences
     url: ''
-    date: '2026'
+    date: '2026-07-03'
     awarder: Chinese Academy of Sciences
     icon: ''
     summary: ''
   - title: Mozi Outstanding Young Scholar Special Grant
     url: ''
-    date: '2026'
+    date: '2026-01-27'
     awarder: University of Science and Technology of China
     icon: ''
     summary: ''
